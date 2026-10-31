@@ -273,7 +273,7 @@ Configure the required environment variables using the project's `.env.example` 
 Start the FastAPI server using the configured application entry point:
 
 ```bash
-uvicorn src.api.main:app --host 127.0.0.1 --port 8000 --reload
+uvicorn src.api.main:app --host 127.0.0.1 --port 8001 --reload
 ```
 
 ### 3. Frontend setup
