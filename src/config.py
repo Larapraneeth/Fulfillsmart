@@ -3,6 +3,7 @@ FulfillSmart Configuration Module
 Provides centralized, typed access to application settings and paths.
 """
 from pathlib import Path
+import os
 import json
 from typing import Dict, Any, List, Optional
 
@@ -14,16 +15,20 @@ class Settings:
     def __init__(self, config_dict: Dict[str, Any]):
         self.app_name: str = config_dict.get("app_name", "FulfillSmart")
         self.version: str = config_dict.get("version", "1.0.0")
-        self.environment: str = config_dict.get("environment", "production_simulation")
+        self.environment: str = os.getenv("ENVIRONMENT") or config_dict.get("environment", "production_simulation")
         self.random_seed: int = config_dict.get("random_seed", 20261022)
         self.timezone: str = config_dict.get("timezone", "Asia/Kolkata")
         
         # Storage
         storage = config_dict.get("storage", {})
-        db_rel = storage.get("database_path", "storage/fulfillsmart.db")
-        self.database_path: Path = ROOT_DIR / db_rel
+        db_env = os.getenv("FULFILLSMART_DATABASE_PATH") or os.getenv("DATABASE_PATH")
+        if db_env:
+            self.database_path: Path = Path(db_env).resolve()
+        else:
+            db_rel = storage.get("database_path", "storage/fulfillsmart.db")
+            self.database_path: Path = ROOT_DIR / db_rel
         self.storage_dir: Path = self.database_path.parent
-        self.cache_size_mb: int = storage.get("cache_size_mb", 64)
+        self.cache_size_mb: int = int(os.getenv("CACHE_SIZE_MB", str(storage.get("cache_size_mb", 64))))
         
         # Allocation policy
         alloc = config_dict.get("allocation_policy", {})
@@ -52,20 +57,25 @@ class Settings:
         api_conf = config_dict.get("api", {})
         self.api_prefix: str = api_conf.get("prefix", "/api/v1")
         
-        import os
         self.api_key: Optional[str] = os.getenv("FULFILLSMART_API_KEY")
         # Fail safely if production environment and key missing
         if self.environment in ["production", "prod"] and not self.api_key:
             raise RuntimeError("FATAL: FULFILLSMART_API_KEY environment variable is required in production mode.")
             
-        self.cors_allowed_origins: List[str] = api_conf.get("cors_allowed_origins", [
-            "http://localhost:3000",
-            "http://127.0.0.1:3000",
-            "http://localhost:5173",
-            "http://127.0.0.1:5173",
-            "http://localhost:8000",
-            "http://127.0.0.1:8000"
-        ])
+        cors_env = os.getenv("CORS_ALLOWED_ORIGINS")
+        if cors_env:
+            self.cors_allowed_origins: List[str] = [
+                origin.strip() for origin in cors_env.split(",") if origin.strip()
+            ]
+        else:
+            self.cors_allowed_origins: List[str] = api_conf.get("cors_allowed_origins", [
+                "http://localhost:3000",
+                "http://127.0.0.1:3000",
+                "http://localhost:5173",
+                "http://127.0.0.1:5173",
+                "http://localhost:8000",
+                "http://127.0.0.1:8000"
+            ])
         self.trusted_proxies: List[str] = api_conf.get("trusted_proxies", [
             "127.0.0.1",
             "::1"

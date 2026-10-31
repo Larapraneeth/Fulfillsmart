@@ -17,7 +17,7 @@ DB_PATH = settings.database_path
 def get_db_connection() -> sqlite3.Connection:
     """Create an optimized SQLite connection with configured pragmas."""
     settings.ensure_directories()
-    conn = sqlite3.connect(str(DB_PATH), timeout=30.0)
+    conn = sqlite3.connect(str(settings.database_path), timeout=30.0)
     conn.row_factory = sqlite3.Row
     conn.execute("PRAGMA journal_mode = WAL;")
     conn.execute("PRAGMA synchronous = NORMAL;")

@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: fulfillsmart-backend
+    runtime: python
+    region: oregon
+    plan: starter
+    branch: main
+    buildCommand: pip install -r requirements.txt
+    startCommand: python scripts/init_production_db.py && uvicorn src.main:app --host 0.0.0.0 --port $PORT --workers 1
+    healthCheckPath: /health
+    disk:
+      name: data
+      mountPath: /var/data
+      sizeGB: 1
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: ENVIRONMENT
+        value: production
+      - key: FULFILLSMART_DATABASE_PATH
+        value: /var/data/fulfillsmart.db
+      - key: FULFILLSMART_API_KEY
+        generateValue: true
+      - key: CORS_ALLOWED_ORIGINS
+        sync: false
