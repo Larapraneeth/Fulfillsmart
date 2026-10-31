@@ -1,0 +1,40 @@
+{
+  "app_name": "FulfillSmart",
+  "version": "1.0.0",
+  "environment": "production_simulation",
+  "random_seed": 20261022,
+  "timezone": "Asia/Kolkata",
+  "storage": {
+    "database_path": "storage/fulfillsmart.db",
+    "cache_size_mb": 64
+  },
+  "allocation_policy": {
+    "ordering_policy": "CHRONOLOGICAL_PRIMARY_PRIORITY_TIEBREAK",
+    "description": "Orders are allocated in chronological order (order_time ascending). In the event of identical order_time timestamps, order_priority (CRITICAL > HIGH > NORMAL > LOW) acts as a deterministic tie-breaker.",
+    "priority_ranks": {
+      "CRITICAL": 1,
+      "HIGH": 2,
+      "NORMAL": 3,
+      "LOW": 4
+    },
+    "sunday_handling": "SHIFT_TO_MONDAY",
+    "sunday_handling_description": "Warehouse capacity is zero on Sunday; orders placed Sunday are assigned to Monday processing.",
+    "distance_metric": "HAVERSINE_SPHERICAL_KM",
+    "single_node_preference": true
+  },
+  "carrier_policy": {
+    "strict_service_level": true,
+    "allow_silent_downgrades": false,
+    "cutoff_search_window_days": 7,
+    "transit_days": {
+      "SAME_DAY": 0,
+      "EXPRESS": 2,
+      "STANDARD": 4
+    },
+    "exclude_sundays": true,
+    "exclude_holidays": true
+  },
+  "logging": {
+    "level": "INFO"
+  }
+}

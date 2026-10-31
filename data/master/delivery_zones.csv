@@ -1,0 +1,51 @@
+delivery_zone_id,zone_name,city,state,region,synthetic_pincode,distance_band,is_active
+DZ-001,Hyderabad Urban Zone,Hyderabad,Telangana,South,506643,LOCAL,True
+DZ-002,Bengaluru Urban Zone,Bengaluru,Karnataka,South,562451,REGIONAL,True
+DZ-003,Chennai Urban Zone,Chennai,Tamil Nadu,South,603296,REGIONAL,True
+DZ-004,Visakhapatnam Urban Zone,Visakhapatnam,Andhra Pradesh,South,530119,LOCAL,True
+DZ-005,Kochi Urban Zone,Kochi,Kerala,South,680949,REGIONAL,True
+DZ-006,Mumbai Urban Zone,Mumbai,Maharashtra,West,400730,NATIONAL,True
+DZ-007,Ahmedabad Urban Zone,Ahmedabad,Gujarat,West,382545,LOCAL,True
+DZ-008,Panaji Urban Zone,Panaji,Goa,West,400443,NATIONAL,True
+DZ-009,Jaipur Urban Zone,Jaipur,Rajasthan,North,301925,LOCAL,True
+DZ-010,Delhi Urban Zone,Delhi,Delhi,North,111565,NATIONAL,True
+DZ-011,Gurugram Urban Zone,Gurugram,Haryana,North,121524,LOCAL,True
+DZ-012,Ludhiana Urban Zone,Ludhiana,Punjab,North,147201,REGIONAL,True
+DZ-013,Lucknow Urban Zone,Lucknow,Uttar Pradesh,North,220624,NATIONAL,True
+DZ-014,Dehradun Urban Zone,Dehradun,Uttarakhand,North,243026,LOCAL,True
+DZ-015,Shimla Urban Zone,Shimla,Himachal Pradesh,North,178869,NATIONAL,True
+DZ-016,Jammu Urban Zone,Jammu,Jammu and Kashmir,North,180201,REGIONAL,True
+DZ-017,Kolkata Urban Zone,Kolkata,West Bengal,East,703263,REGIONAL,True
+DZ-018,Patna Urban Zone,Patna,Bihar,East,801081,REGIONAL,True
+DZ-019,Bhubaneswar Urban Zone,Bhubaneswar,Odisha,East,750790,NATIONAL,True
+DZ-020,Ranchi Urban Zone,Ranchi,Jharkhand,East,837994,REGIONAL,True
+DZ-021,Guwahati Urban Zone,Guwahati,Assam,Northeast,789332,LOCAL,True
+DZ-022,Shillong Urban Zone,Shillong,Meghalaya,Northeast,791766,REGIONAL,True
+DZ-023,Imphal Urban Zone,Imphal,Manipur,Northeast,797222,REGIONAL,True
+DZ-024,Agartala Urban Zone,Agartala,Tripura,Northeast,791523,REGIONAL,True
+DZ-025,Aizawl Urban Zone,Aizawl,Mizoram,Northeast,794479,REGIONAL,True
+DZ-026,Kohima Urban Zone,Kohima,Nagaland,Northeast,797223,NATIONAL,True
+DZ-027,Itanagar Urban Zone,Itanagar,Arunachal Pradesh,Northeast,798356,REGIONAL,True
+DZ-028,Bhopal Urban Zone,Bhopal,Madhya Pradesh,Central,450668,REGIONAL,True
+DZ-029,Raipur Urban Zone,Raipur,Chhattisgarh,Central,491052,LOCAL,True
+DZ-030,Kanpur Urban Zone,Kanpur,Uttar Pradesh,Central,224337,LOCAL,True
+DZ-031,Pune Urban Zone,Pune,Maharashtra,West,403383,LOCAL,True
+DZ-032,Nagpur Urban Zone,Nagpur,Maharashtra,West,404707,NATIONAL,True
+DZ-033,Surat Urban Zone,Surat,Gujarat,West,382561,NATIONAL,True
+DZ-034,Mysuru Urban Zone,Mysuru,Karnataka,South,565597,REGIONAL,True
+DZ-035,Coimbatore Urban Zone,Coimbatore,Tamil Nadu,South,606146,REGIONAL,True
+DZ-036,Vijayawada Urban Zone,Vijayawada,Andhra Pradesh,South,539515,LOCAL,True
+DZ-037,Warangal Urban Zone,Warangal,Telangana,South,506690,LOCAL,True
+DZ-038,Thiruvananthapuram Urban Zone,Thiruvananthapuram,Kerala,South,681133,LOCAL,True
+DZ-039,Jodhpur Urban Zone,Jodhpur,Rajasthan,North,309339,NATIONAL,True
+DZ-040,Noida Urban Zone,Noida,Uttar Pradesh,North,223638,REGIONAL,True
+DZ-041,Varanasi Urban Zone,Varanasi,Uttar Pradesh,North,223393,LOCAL,True
+DZ-042,Amritsar Urban Zone,Amritsar,Punjab,North,148327,REGIONAL,True
+DZ-043,Siliguri Urban Zone,Siliguri,West Bengal,East,700232,NATIONAL,True
+DZ-044,Cuttack Urban Zone,Cuttack,Odisha,East,756547,NATIONAL,True
+DZ-045,Gaya Urban Zone,Gaya,Bihar,East,806810,NATIONAL,True
+DZ-046,Dibrugarh Urban Zone,Dibrugarh,Assam,Northeast,783901,LOCAL,True
+DZ-047,Indore Urban Zone,Indore,Madhya Pradesh,Central,458482,LOCAL,True
+DZ-048,Bilaspur Urban Zone,Bilaspur,Chhattisgarh,Central,497305,REGIONAL,True
+DZ-049,Margao Urban Zone,Margao,Goa,West,401419,REGIONAL,True
+DZ-050,Faridabad Urban Zone,Faridabad,Haryana,North,120733,NATIONAL,True

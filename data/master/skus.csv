@@ -1,0 +1,1001 @@
+sku_id,sku_name,category,unit_weight_kg,unit_length_cm,unit_width_cm,unit_height_cm,unit_price_inr,is_active
+SKU-000001,Books_Product_0001,Books,13.464,67.2,7.4,46.2,13600.07,True
+SKU-000002,Sports_Product_0002,Sports,13.985,53.6,6.8,6.4,10645.79,True
+SKU-000003,Fashion_Product_0003,Fashion,0.637,61.8,49.9,4.7,10314.01,True
+SKU-000004,Electronics_Product_0004,Electronics,2.584,39.9,38.6,29.4,13006.17,True
+SKU-000005,Beauty_Product_0005,Beauty,4.525,38.0,24.4,49.3,17413.7,True
+SKU-000006,Beauty_Product_0006,Beauty,7.599,57.0,15.6,5.2,15392.37,True
+SKU-000007,Beauty_Product_0007,Beauty,12.64,50.0,50.6,25.9,751.61,True
+SKU-000008,Electronics_Product_0008,Electronics,0.515,73.3,41.3,45.5,679.45,True
+SKU-000009,Fashion_Product_0009,Fashion,0.219,39.2,5.3,28.4,2134.75,True
+SKU-000010,Electronics_Product_0010,Electronics,12.794,21.2,14.6,47.9,5077.0,True
+SKU-000011,Beauty_Product_0011,Beauty,2.214,62.3,52.0,31.2,10105.93,True
+SKU-000012,Beauty_Product_0012,Beauty,14.473,28.7,55.2,2.1,20742.18,True
+SKU-000013,Sports_Product_0013,Sports,12.305,67.6,10.7,25.1,13089.5,True
+SKU-000014,Home_Kitchen_Product_0014,Home & Kitchen,9.704,72.9,16.7,34.7,16751.99,True
+SKU-000015,Beauty_Product_0015,Beauty,11.75,58.4,42.5,28.0,23612.44,True
+SKU-000016,Fashion_Product_0016,Fashion,9.606,49.5,52.9,33.8,11337.0,True
+SKU-000017,Home_Kitchen_Product_0017,Home & Kitchen,9.186,56.8,23.3,33.3,6448.72,True
+SKU-000018,Beauty_Product_0018,Beauty,9.965,54.6,5.5,46.6,5016.26,True
+SKU-000019,Toys_Product_0019,Toys,5.69,44.3,42.9,28.6,11551.65,True
+SKU-000020,Electronics_Product_0020,Electronics,12.679,70.2,44.9,36.2,22336.0,True
+SKU-000021,Home_Kitchen_Product_0021,Home & Kitchen,14.286,15.8,5.5,6.2,23517.26,True
+SKU-000022,Books_Product_0022,Books,0.125,43.8,31.5,23.3,1360.49,True
+SKU-000023,Fashion_Product_0023,Fashion,2.932,33.3,20.8,40.2,20720.47,True
+SKU-000024,Books_Product_0024,Books,2.882,45.2,12.4,9.2,6802.19,True
+SKU-000025,Toys_Product_0025,Toys,9.54,60.8,30.5,34.6,10556.58,True
+SKU-000026,Electronics_Product_0026,Electronics,10.166,5.6,58.9,45.6,11508.15,True
+SKU-000027,Electronics_Product_0027,Electronics,9.908,79.4,47.2,39.4,3081.9,True
+SKU-000028,Fashion_Product_0028,Fashion,4.323,26.8,18.0,23.5,12907.34,True
+SKU-000029,Fashion_Product_0029,Fashion,14.689,12.9,48.0,4.7,9744.74,True
+SKU-000030,Toys_Product_0030,Toys,4.944,53.7,51.3,48.8,14393.32,True
+SKU-000031,Home_Kitchen_Product_0031,Home & Kitchen,13.732,20.7,42.2,22.8,13666.51,True
+SKU-000032,Home_Kitchen_Product_0032,Home & Kitchen,8.75,27.4,29.5,45.3,22294.87,True
+SKU-000033,Beauty_Product_0033,Beauty,10.723,56.7,44.0,19.2,22989.59,True
+SKU-000034,Books_Product_0034,Books,11.511,72.6,49.6,20.7,3040.69,True
+SKU-000035,Home_Kitchen_Product_0035,Home & Kitchen,8.798,20.8,42.4,19.0,7136.64,True
+SKU-000036,Fashion_Product_0036,Fashion,13.259,5.5,29.2,42.7,17671.32,True
+SKU-000037,Grocery_Product_0037,Grocery,5.599,66.2,24.0,3.0,14541.95,True
+SKU-000038,Grocery_Product_0038,Grocery,1.605,46.7,25.3,48.7,13155.23,True
+SKU-000039,Home_Kitchen_Product_0039,Home & Kitchen,11.831,49.7,27.3,14.1,12713.93,True
+SKU-000040,Grocery_Product_0040,Grocery,4.957,8.7,42.8,27.0,3481.02,True
+SKU-000041,Toys_Product_0041,Toys,2.967,13.1,7.0,48.9,7146.33,True
+SKU-000042,Electronics_Product_0042,Electronics,3.851,27.0,42.8,23.0,1100.75,True
+SKU-000043,Fashion_Product_0043,Fashion,1.115,10.0,10.0,6.3,21088.69,True
+SKU-000044,Grocery_Product_0044,Grocery,10.31,75.5,21.0,17.2,1302.72,True
+SKU-000045,Beauty_Product_0045,Beauty,8.962,59.1,30.7,39.3,7365.15,True
+SKU-000046,Electronics_Product_0046,Electronics,7.414,9.0,26.7,23.8,349.5,True
+SKU-000047,Home_Kitchen_Product_0047,Home & Kitchen,13.25,60.0,35.2,25.7,4429.93,True
+SKU-000048,Books_Product_0048,Books,10.034,60.9,34.7,14.3,8798.8,True
+SKU-000049,Home_Kitchen_Product_0049,Home & Kitchen,9.638,21.5,19.5,43.2,12357.9,True
+SKU-000050,Sports_Product_0050,Sports,7.242,32.4,44.9,7.3,14041.53,True
+SKU-000051,Beauty_Product_0051,Beauty,11.266,67.4,31.9,9.7,8639.26,True
+SKU-000052,Electronics_Product_0052,Electronics,9.249,9.7,50.8,30.8,8325.06,True
+SKU-000053,Home_Kitchen_Product_0053,Home & Kitchen,8.472,37.4,45.8,42.2,12641.34,True
+SKU-000054,Home_Kitchen_Product_0054,Home & Kitchen,13.094,23.3,50.9,48.5,24520.53,True
+SKU-000055,Grocery_Product_0055,Grocery,14.938,35.5,35.6,19.4,24610.86,True
+SKU-000056,Beauty_Product_0056,Beauty,8.074,15.8,21.0,35.5,14611.38,True
+SKU-000057,Toys_Product_0057,Toys,9.152,38.5,41.2,4.2,17357.64,True
+SKU-000058,Toys_Product_0058,Toys,1.857,75.9,27.1,33.0,23329.88,True
+SKU-000059,Home_Kitchen_Product_0059,Home & Kitchen,0.216,22.2,46.0,42.9,10158.61,True
+SKU-000060,Electronics_Product_0060,Electronics,8.779,34.2,26.6,28.8,17770.76,True
+SKU-000061,Books_Product_0061,Books,1.731,74.4,35.0,41.3,2231.75,True
+SKU-000062,Electronics_Product_0062,Electronics,6.807,15.2,14.7,38.0,9911.33,True
+SKU-000063,Grocery_Product_0063,Grocery,12.462,60.1,18.1,10.2,15481.45,True
+SKU-000064,Electronics_Product_0064,Electronics,10.487,9.6,29.8,45.0,18440.34,True
+SKU-000065,Toys_Product_0065,Toys,11.807,18.4,39.0,11.2,3001.06,True
+SKU-000066,Electronics_Product_0066,Electronics,13.195,26.0,42.3,9.4,13972.24,True
+SKU-000067,Beauty_Product_0067,Beauty,10.406,42.1,24.5,49.2,13935.23,True
+SKU-000068,Electronics_Product_0068,Electronics,2.994,66.8,45.2,32.7,17922.72,True
+SKU-000069,Fashion_Product_0069,Fashion,14.604,74.0,51.7,9.3,23682.72,True
+SKU-000070,Sports_Product_0070,Sports,5.325,40.3,42.1,41.1,13057.88,True
+SKU-000071,Books_Product_0071,Books,0.401,29.4,6.3,20.2,23030.41,True
+SKU-000072,Electronics_Product_0072,Electronics,9.488,26.1,6.9,45.4,6076.64,True
+SKU-000073,Sports_Product_0073,Sports,1.033,46.2,41.7,6.6,8026.07,True
+SKU-000074,Toys_Product_0074,Toys,13.288,42.1,59.4,19.1,3698.27,True
+SKU-000075,Electronics_Product_0075,Electronics,14.133,68.0,27.0,46.4,24746.74,True
+SKU-000076,Home_Kitchen_Product_0076,Home & Kitchen,6.804,33.1,6.8,34.8,773.5,True
+SKU-000077,Electronics_Product_0077,Electronics,10.415,78.5,28.2,19.0,20841.22,True
+SKU-000078,Sports_Product_0078,Sports,12.194,56.8,40.4,28.3,13715.59,True
+SKU-000079,Electronics_Product_0079,Electronics,8.333,78.7,20.7,37.9,7090.24,True
+SKU-000080,Electronics_Product_0080,Electronics,10.908,71.0,35.1,22.8,19206.27,True
+SKU-000081,Electronics_Product_0081,Electronics,13.597,70.2,23.5,42.2,4831.22,True
+SKU-000082,Grocery_Product_0082,Grocery,4.242,60.5,46.9,16.5,8599.82,True
+SKU-000083,Sports_Product_0083,Sports,10.347,10.9,38.1,16.9,4619.16,True
+SKU-000084,Grocery_Product_0084,Grocery,9.75,66.4,13.2,43.7,12002.69,True
+SKU-000085,Electronics_Product_0085,Electronics,10.674,6.0,21.7,2.2,14438.66,True
+SKU-000086,Toys_Product_0086,Toys,11.843,29.8,43.5,38.8,4445.52,True
+SKU-000087,Books_Product_0087,Books,3.277,61.5,18.4,9.7,17336.34,True
+SKU-000088,Beauty_Product_0088,Beauty,0.812,21.9,37.5,4.5,22379.45,True
+SKU-000089,Books_Product_0089,Books,13.902,72.3,34.4,11.3,5994.11,True
+SKU-000090,Toys_Product_0090,Toys,1.2,66.8,17.2,15.3,15830.31,True
+SKU-000091,Sports_Product_0091,Sports,8.036,45.2,48.0,16.8,5809.23,True
+SKU-000092,Sports_Product_0092,Sports,0.597,66.4,54.6,18.4,18247.44,True
+SKU-000093,Books_Product_0093,Books,14.257,41.3,15.6,21.3,24541.46,True
+SKU-000094,Grocery_Product_0094,Grocery,2.584,21.7,13.2,40.5,2267.09,True
+SKU-000095,Books_Product_0095,Books,0.935,49.7,59.2,11.2,7598.79,True
+SKU-000096,Books_Product_0096,Books,11.591,49.1,27.3,6.4,13939.27,True
+SKU-000097,Fashion_Product_0097,Fashion,12.171,74.1,34.3,37.2,23576.5,True
+SKU-000098,Fashion_Product_0098,Fashion,11.6,51.2,16.3,22.3,18561.16,True
+SKU-000099,Fashion_Product_0099,Fashion,7.818,68.2,12.2,11.5,12014.43,True
+SKU-000100,Toys_Product_0100,Toys,5.699,31.6,50.7,16.2,18740.33,True
+SKU-000101,Sports_Product_0101,Sports,13.605,29.5,37.1,23.8,6211.59,True
+SKU-000102,Toys_Product_0102,Toys,9.443,19.8,19.4,16.4,538.42,True
+SKU-000103,Fashion_Product_0103,Fashion,7.35,71.4,5.7,21.7,17009.53,True
+SKU-000104,Electronics_Product_0104,Electronics,13.737,46.8,9.6,26.7,21511.88,True
+SKU-000105,Electronics_Product_0105,Electronics,12.1,12.3,34.5,36.7,23099.62,True
+SKU-000106,Toys_Product_0106,Toys,10.596,51.9,17.4,11.5,14821.59,True
+SKU-000107,Sports_Product_0107,Sports,10.151,28.5,18.9,9.8,9062.48,True
+SKU-000108,Beauty_Product_0108,Beauty,12.758,16.5,18.1,10.7,19759.92,True
+SKU-000109,Home_Kitchen_Product_0109,Home & Kitchen,14.433,33.6,37.2,44.8,4190.48,True
+SKU-000110,Toys_Product_0110,Toys,12.713,77.4,31.1,40.8,16298.4,True
+SKU-000111,Grocery_Product_0111,Grocery,8.713,46.7,28.3,28.9,12773.92,True
+SKU-000112,Fashion_Product_0112,Fashion,4.117,54.3,57.1,30.7,7710.97,True
+SKU-000113,Fashion_Product_0113,Fashion,12.436,47.5,21.2,14.9,12112.74,True
+SKU-000114,Toys_Product_0114,Toys,0.42,13.9,14.5,34.5,20647.82,True
+SKU-000115,Beauty_Product_0115,Beauty,14.975,77.6,49.6,43.2,13998.45,True
+SKU-000116,Electronics_Product_0116,Electronics,3.779,18.2,24.9,28.1,16514.64,True
+SKU-000117,Grocery_Product_0117,Grocery,12.813,50.6,20.2,34.2,13812.32,True
+SKU-000118,Books_Product_0118,Books,10.936,16.0,49.2,16.3,9683.22,True
+SKU-000119,Home_Kitchen_Product_0119,Home & Kitchen,3.667,73.8,13.5,29.8,15382.89,True
+SKU-000120,Fashion_Product_0120,Fashion,11.184,42.2,8.4,17.5,17743.81,True
+SKU-000121,Grocery_Product_0121,Grocery,7.217,56.0,37.3,24.7,23142.24,True
+SKU-000122,Books_Product_0122,Books,12.538,25.7,39.4,14.7,16537.32,True
+SKU-000123,Electronics_Product_0123,Electronics,1.923,44.0,44.4,10.7,15408.6,True
+SKU-000124,Books_Product_0124,Books,8.057,65.4,19.6,13.1,5939.63,True
+SKU-000125,Home_Kitchen_Product_0125,Home & Kitchen,11.87,79.7,12.8,38.0,9300.0,True
+SKU-000126,Beauty_Product_0126,Beauty,10.389,18.7,52.2,28.8,5912.53,True
+SKU-000127,Electronics_Product_0127,Electronics,12.104,78.1,30.7,48.6,17613.23,True
+SKU-000128,Sports_Product_0128,Sports,6.953,7.8,51.3,23.1,1147.98,True
+SKU-000129,Books_Product_0129,Books,11.999,7.2,25.9,10.6,7978.55,True
+SKU-000130,Grocery_Product_0130,Grocery,7.899,69.5,7.5,45.4,2142.01,True
+SKU-000131,Toys_Product_0131,Toys,14.125,53.8,15.7,35.0,10522.08,True
+SKU-000132,Home_Kitchen_Product_0132,Home & Kitchen,6.187,68.2,56.4,48.4,14877.15,True
+SKU-000133,Electronics_Product_0133,Electronics,6.009,34.2,56.5,6.6,5753.23,True
+SKU-000134,Fashion_Product_0134,Fashion,14.202,26.4,46.6,38.0,13093.36,True
+SKU-000135,Beauty_Product_0135,Beauty,0.428,57.7,8.7,12.3,14215.56,True
+SKU-000136,Toys_Product_0136,Toys,4.152,9.6,14.6,42.1,9361.03,True
+SKU-000137,Beauty_Product_0137,Beauty,9.167,35.0,51.7,29.5,17325.93,True
+SKU-000138,Grocery_Product_0138,Grocery,6.591,10.1,37.9,25.0,17105.89,True
+SKU-000139,Home_Kitchen_Product_0139,Home & Kitchen,4.977,79.0,14.9,47.0,19106.44,True
+SKU-000140,Home_Kitchen_Product_0140,Home & Kitchen,11.348,55.3,20.5,14.9,24601.73,True
+SKU-000141,Beauty_Product_0141,Beauty,4.646,19.7,23.1,16.2,12931.43,True
+SKU-000142,Toys_Product_0142,Toys,8.659,6.8,58.5,49.2,19530.93,True
+SKU-000143,Beauty_Product_0143,Beauty,5.998,62.5,39.7,35.7,24376.16,True
+SKU-000144,Fashion_Product_0144,Fashion,9.918,71.6,30.7,12.1,16585.4,True
+SKU-000145,Grocery_Product_0145,Grocery,13.526,51.6,37.9,20.2,16305.23,True
+SKU-000146,Grocery_Product_0146,Grocery,7.898,6.4,53.4,23.8,8859.0,True
+SKU-000147,Books_Product_0147,Books,6.326,66.7,7.3,37.2,19216.14,True
+SKU-000148,Fashion_Product_0148,Fashion,10.894,73.3,44.4,23.1,2381.05,True
+SKU-000149,Grocery_Product_0149,Grocery,0.636,50.4,38.5,5.1,20871.44,True
+SKU-000150,Books_Product_0150,Books,1.422,54.1,11.0,23.6,12527.95,True
+SKU-000151,Sports_Product_0151,Sports,2.921,68.6,6.8,9.2,8215.31,True
+SKU-000152,Electronics_Product_0152,Electronics,4.361,72.7,26.5,39.2,5029.15,True
+SKU-000153,Electronics_Product_0153,Electronics,10.235,19.9,20.8,21.3,23045.18,True
+SKU-000154,Home_Kitchen_Product_0154,Home & Kitchen,5.62,63.8,23.9,37.5,1808.76,True
+SKU-000155,Toys_Product_0155,Toys,14.272,54.6,16.7,2.0,21814.66,True
+SKU-000156,Beauty_Product_0156,Beauty,8.065,47.7,59.1,27.3,24055.08,True
+SKU-000157,Toys_Product_0157,Toys,7.513,37.6,35.7,10.0,22325.58,True
+SKU-000158,Fashion_Product_0158,Fashion,10.703,55.2,16.3,5.3,3242.71,True
+SKU-000159,Electronics_Product_0159,Electronics,11.066,74.9,30.6,36.7,23724.35,True
+SKU-000160,Sports_Product_0160,Sports,10.967,68.6,18.4,26.4,17973.46,True
+SKU-000161,Fashion_Product_0161,Fashion,13.443,19.7,45.8,19.3,15285.54,True
+SKU-000162,Toys_Product_0162,Toys,6.691,52.7,28.4,10.1,13351.95,True
+SKU-000163,Toys_Product_0163,Toys,10.746,66.7,30.8,41.8,19848.28,True
+SKU-000164,Grocery_Product_0164,Grocery,9.454,54.1,38.7,40.5,16486.37,True
+SKU-000165,Books_Product_0165,Books,10.701,42.4,24.9,28.4,14718.51,True
+SKU-000166,Grocery_Product_0166,Grocery,8.525,47.8,49.4,34.8,2884.35,True
+SKU-000167,Books_Product_0167,Books,1.659,46.4,25.3,21.9,6348.27,True
+SKU-000168,Electronics_Product_0168,Electronics,6.033,52.0,59.8,39.6,11176.52,True
+SKU-000169,Beauty_Product_0169,Beauty,4.59,9.0,10.7,21.5,1286.38,True
+SKU-000170,Fashion_Product_0170,Fashion,12.885,59.9,22.0,8.3,5219.01,True
+SKU-000171,Beauty_Product_0171,Beauty,9.154,18.9,22.6,46.4,24910.5,True
+SKU-000172,Grocery_Product_0172,Grocery,14.988,54.1,50.4,9.7,20453.51,True
+SKU-000173,Toys_Product_0173,Toys,4.633,65.7,27.3,10.7,3979.36,True
+SKU-000174,Home_Kitchen_Product_0174,Home & Kitchen,10.054,21.7,19.5,16.2,5932.78,True
+SKU-000175,Grocery_Product_0175,Grocery,14.843,42.4,54.5,44.4,12547.01,True
+SKU-000176,Home_Kitchen_Product_0176,Home & Kitchen,0.542,31.2,57.5,22.9,13296.97,True
+SKU-000177,Fashion_Product_0177,Fashion,8.553,71.3,6.3,30.4,21496.42,True
+SKU-000178,Home_Kitchen_Product_0178,Home & Kitchen,9.032,48.9,44.9,16.6,4339.56,True
+SKU-000179,Home_Kitchen_Product_0179,Home & Kitchen,3.876,59.1,58.3,32.0,4756.93,True
+SKU-000180,Toys_Product_0180,Toys,7.864,70.8,34.4,45.3,16556.71,True
+SKU-000181,Electronics_Product_0181,Electronics,2.377,27.3,18.2,13.9,3381.68,True
+SKU-000182,Beauty_Product_0182,Beauty,8.541,62.4,51.0,46.7,7721.0,True
+SKU-000183,Sports_Product_0183,Sports,1.681,16.9,34.6,3.7,13071.69,True
+SKU-000184,Fashion_Product_0184,Fashion,12.701,37.7,14.1,27.2,18086.16,True
+SKU-000185,Books_Product_0185,Books,2.922,51.1,11.9,27.7,18654.99,True
+SKU-000186,Sports_Product_0186,Sports,13.434,75.2,59.9,40.3,3136.66,True
+SKU-000187,Fashion_Product_0187,Fashion,1.031,63.3,22.4,47.1,21043.26,True
+SKU-000188,Sports_Product_0188,Sports,4.221,14.1,41.6,6.8,15557.99,True
+SKU-000189,Books_Product_0189,Books,12.926,25.7,39.2,15.0,4713.67,True
+SKU-000190,Electronics_Product_0190,Electronics,0.827,78.1,25.6,9.9,6398.21,True
+SKU-000191,Electronics_Product_0191,Electronics,7.044,78.0,50.0,43.8,4482.31,True
+SKU-000192,Sports_Product_0192,Sports,5.339,39.4,34.4,44.1,24924.89,True
+SKU-000193,Beauty_Product_0193,Beauty,13.038,70.1,12.2,26.9,17327.7,True
+SKU-000194,Sports_Product_0194,Sports,2.791,59.5,31.6,10.6,7370.73,True
+SKU-000195,Fashion_Product_0195,Fashion,11.997,35.1,10.9,12.5,12122.17,True
+SKU-000196,Sports_Product_0196,Sports,13.942,25.9,26.3,33.7,18907.89,True
+SKU-000197,Books_Product_0197,Books,0.926,49.9,18.3,10.1,4605.42,True
+SKU-000198,Books_Product_0198,Books,11.222,18.7,50.6,2.2,5890.93,True
+SKU-000199,Home_Kitchen_Product_0199,Home & Kitchen,9.503,79.2,57.5,12.9,23673.9,True
+SKU-000200,Fashion_Product_0200,Fashion,9.002,36.0,59.3,14.5,18624.37,True
+SKU-000201,Fashion_Product_0201,Fashion,8.021,12.3,11.3,40.3,6568.75,True
+SKU-000202,Grocery_Product_0202,Grocery,8.887,32.1,51.8,15.5,22622.42,True
+SKU-000203,Fashion_Product_0203,Fashion,4.416,33.1,50.3,9.3,12242.07,True
+SKU-000204,Sports_Product_0204,Sports,8.843,13.9,12.9,31.9,14867.03,True
+SKU-000205,Toys_Product_0205,Toys,2.328,42.6,8.0,47.5,22794.82,True
+SKU-000206,Books_Product_0206,Books,14.13,61.9,9.9,29.3,14810.91,True
+SKU-000207,Grocery_Product_0207,Grocery,14.653,12.1,7.4,15.9,10304.85,True
+SKU-000208,Beauty_Product_0208,Beauty,1.171,42.4,29.9,15.3,19145.78,True
+SKU-000209,Beauty_Product_0209,Beauty,8.52,52.7,6.0,48.8,11332.9,True
+SKU-000210,Electronics_Product_0210,Electronics,1.523,62.5,50.2,23.9,3876.91,True
+SKU-000211,Beauty_Product_0211,Beauty,11.038,31.2,30.0,19.4,11253.52,True
+SKU-000212,Home_Kitchen_Product_0212,Home & Kitchen,8.561,13.0,44.9,15.0,13370.62,True
+SKU-000213,Books_Product_0213,Books,9.361,40.8,59.5,21.4,22369.23,True
+SKU-000214,Grocery_Product_0214,Grocery,7.601,20.5,52.2,39.4,2140.7,True
+SKU-000215,Books_Product_0215,Books,4.532,27.5,6.3,7.1,1934.73,True
+SKU-000216,Toys_Product_0216,Toys,12.176,12.6,12.4,40.4,9837.73,True
+SKU-000217,Books_Product_0217,Books,13.149,45.8,19.8,31.7,4245.93,True
+SKU-000218,Fashion_Product_0218,Fashion,5.572,39.3,40.7,48.5,13834.32,True
+SKU-000219,Books_Product_0219,Books,4.556,9.4,51.8,48.4,7666.67,True
+SKU-000220,Beauty_Product_0220,Beauty,14.913,28.7,49.2,39.1,18621.99,True
+SKU-000221,Sports_Product_0221,Sports,11.648,9.6,53.8,30.3,19720.31,True
+SKU-000222,Toys_Product_0222,Toys,1.301,72.4,58.9,26.7,259.72,True
+SKU-000223,Home_Kitchen_Product_0223,Home & Kitchen,2.503,44.7,56.8,23.4,214.12,True
+SKU-000224,Books_Product_0224,Books,14.449,17.9,5.6,8.5,3073.32,True
+SKU-000225,Home_Kitchen_Product_0225,Home & Kitchen,12.09,29.1,24.2,44.0,22150.14,True
+SKU-000226,Toys_Product_0226,Toys,1.381,54.9,35.2,11.6,6120.87,True
+SKU-000227,Toys_Product_0227,Toys,6.722,41.9,9.1,13.3,538.38,True
+SKU-000228,Electronics_Product_0228,Electronics,5.206,23.8,21.1,49.2,2080.31,True
+SKU-000229,Sports_Product_0229,Sports,9.953,11.9,14.8,27.2,9968.24,True
+SKU-000230,Sports_Product_0230,Sports,10.605,16.8,24.3,17.4,5637.65,True
+SKU-000231,Home_Kitchen_Product_0231,Home & Kitchen,1.303,7.5,24.1,20.3,6957.64,True
+SKU-000232,Books_Product_0232,Books,13.947,57.2,47.7,15.8,13758.09,True
+SKU-000233,Sports_Product_0233,Sports,4.025,25.9,33.2,8.0,20087.79,True
+SKU-000234,Electronics_Product_0234,Electronics,6.809,42.2,49.9,10.1,18823.55,True
+SKU-000235,Grocery_Product_0235,Grocery,0.494,23.1,16.5,8.7,21929.31,True
+SKU-000236,Grocery_Product_0236,Grocery,0.937,61.9,44.0,44.8,5016.96,True
+SKU-000237,Sports_Product_0237,Sports,5.215,66.3,56.0,18.7,5573.74,True
+SKU-000238,Electronics_Product_0238,Electronics,5.569,15.7,39.5,29.8,21833.63,True
+SKU-000239,Sports_Product_0239,Sports,2.42,24.2,44.8,19.5,6747.72,True
+SKU-000240,Home_Kitchen_Product_0240,Home & Kitchen,8.081,52.0,7.0,2.4,9390.8,True
+SKU-000241,Fashion_Product_0241,Fashion,0.776,9.7,57.0,9.0,949.15,True
+SKU-000242,Fashion_Product_0242,Fashion,8.21,54.3,26.0,8.8,24151.61,True
+SKU-000243,Fashion_Product_0243,Fashion,12.014,37.8,48.4,37.5,12628.27,True
+SKU-000244,Home_Kitchen_Product_0244,Home & Kitchen,4.874,14.8,9.5,39.2,5156.99,True
+SKU-000245,Electronics_Product_0245,Electronics,11.981,32.0,40.0,20.0,14148.01,True
+SKU-000246,Books_Product_0246,Books,4.838,58.2,28.7,6.0,6251.87,True
+SKU-000247,Sports_Product_0247,Sports,0.942,15.6,38.6,3.6,16428.18,True
+SKU-000248,Home_Kitchen_Product_0248,Home & Kitchen,1.111,46.6,38.9,7.0,1118.87,True
+SKU-000249,Sports_Product_0249,Sports,8.519,14.7,23.5,23.5,5873.81,True
+SKU-000250,Sports_Product_0250,Sports,10.463,66.0,59.4,20.4,19138.75,True
+SKU-000251,Fashion_Product_0251,Fashion,6.768,57.8,12.2,3.5,11334.09,True
+SKU-000252,Beauty_Product_0252,Beauty,2.013,60.7,22.3,24.6,17406.96,True
+SKU-000253,Grocery_Product_0253,Grocery,6.146,73.3,12.9,33.0,8477.48,True
+SKU-000254,Electronics_Product_0254,Electronics,10.691,68.8,32.8,32.7,15059.7,True
+SKU-000255,Books_Product_0255,Books,13.64,37.2,9.4,42.2,19788.28,True
+SKU-000256,Home_Kitchen_Product_0256,Home & Kitchen,14.336,39.0,40.5,25.9,4159.53,True
+SKU-000257,Books_Product_0257,Books,0.234,27.0,21.3,47.3,573.97,True
+SKU-000258,Electronics_Product_0258,Electronics,0.895,30.5,41.4,46.8,19250.63,True
+SKU-000259,Toys_Product_0259,Toys,9.313,48.6,47.9,10.4,20184.67,True
+SKU-000260,Sports_Product_0260,Sports,11.545,16.8,23.4,32.0,4971.6,True
+SKU-000261,Fashion_Product_0261,Fashion,8.614,28.7,51.6,4.2,12846.37,True
+SKU-000262,Books_Product_0262,Books,5.163,50.0,13.3,45.3,23245.88,True
+SKU-000263,Books_Product_0263,Books,7.289,33.7,41.6,6.2,12914.46,True
+SKU-000264,Books_Product_0264,Books,6.937,34.8,12.5,26.2,21229.65,True
+SKU-000265,Electronics_Product_0265,Electronics,9.031,26.6,30.3,24.2,2288.03,True
+SKU-000266,Books_Product_0266,Books,6.096,65.8,10.0,43.0,12167.1,True
+SKU-000267,Books_Product_0267,Books,13.803,66.0,59.0,12.4,485.94,True
+SKU-000268,Toys_Product_0268,Toys,8.509,61.6,53.0,41.2,24777.81,True
+SKU-000269,Electronics_Product_0269,Electronics,2.09,46.2,6.2,5.6,24411.42,True
+SKU-000270,Home_Kitchen_Product_0270,Home & Kitchen,12.612,25.7,7.1,19.6,5967.39,True
+SKU-000271,Books_Product_0271,Books,13.316,65.4,5.8,44.8,7080.79,True
+SKU-000272,Fashion_Product_0272,Fashion,13.479,46.9,10.3,33.8,16613.42,True
+SKU-000273,Sports_Product_0273,Sports,3.819,14.7,40.6,21.2,17631.83,True
+SKU-000274,Books_Product_0274,Books,6.073,60.1,49.8,15.4,22935.91,True
+SKU-000275,Books_Product_0275,Books,11.154,60.3,51.2,15.7,19334.65,True
+SKU-000276,Beauty_Product_0276,Beauty,4.569,43.2,26.1,6.9,24969.76,True
+SKU-000277,Books_Product_0277,Books,14.433,5.5,17.3,27.7,17761.14,True
+SKU-000278,Home_Kitchen_Product_0278,Home & Kitchen,10.893,39.6,23.1,26.5,20084.1,True
+SKU-000279,Electronics_Product_0279,Electronics,1.276,77.6,46.3,7.1,3510.93,True
+SKU-000280,Beauty_Product_0280,Beauty,12.018,61.3,50.3,11.9,18121.29,True
+SKU-000281,Sports_Product_0281,Sports,12.975,27.9,29.7,16.9,8692.46,True
+SKU-000282,Beauty_Product_0282,Beauty,3.318,47.4,57.7,30.9,13701.47,True
+SKU-000283,Home_Kitchen_Product_0283,Home & Kitchen,9.338,6.5,35.6,20.5,12269.95,True
+SKU-000284,Sports_Product_0284,Sports,14.973,5.6,11.9,9.7,3428.15,True
+SKU-000285,Electronics_Product_0285,Electronics,4.011,12.5,48.3,45.6,11279.84,True
+SKU-000286,Beauty_Product_0286,Beauty,13.421,33.4,13.9,48.6,4454.06,True
+SKU-000287,Grocery_Product_0287,Grocery,0.723,38.2,16.3,7.0,23274.94,True
+SKU-000288,Home_Kitchen_Product_0288,Home & Kitchen,10.55,24.7,21.6,33.3,19861.06,True
+SKU-000289,Electronics_Product_0289,Electronics,5.476,11.8,22.8,27.3,1466.96,True
+SKU-000290,Books_Product_0290,Books,11.213,44.9,51.2,6.7,14248.98,True
+SKU-000291,Fashion_Product_0291,Fashion,3.17,30.2,45.2,46.6,24911.82,True
+SKU-000292,Home_Kitchen_Product_0292,Home & Kitchen,4.778,46.7,19.4,42.3,24241.1,True
+SKU-000293,Electronics_Product_0293,Electronics,2.8,46.5,41.8,10.5,19255.48,True
+SKU-000294,Beauty_Product_0294,Beauty,1.535,23.2,31.7,2.6,909.03,True
+SKU-000295,Toys_Product_0295,Toys,12.606,63.6,31.7,24.4,1979.28,True
+SKU-000296,Grocery_Product_0296,Grocery,4.721,13.2,35.6,44.5,8413.98,True
+SKU-000297,Electronics_Product_0297,Electronics,5.306,31.3,23.9,13.3,19482.33,True
+SKU-000298,Electronics_Product_0298,Electronics,14.407,29.2,55.2,42.0,20717.97,True
+SKU-000299,Electronics_Product_0299,Electronics,1.476,74.5,46.6,25.1,4095.38,True
+SKU-000300,Books_Product_0300,Books,9.804,22.7,51.9,24.3,1778.59,True
+SKU-000301,Books_Product_0301,Books,0.579,30.8,35.3,10.6,2339.59,True
+SKU-000302,Grocery_Product_0302,Grocery,0.762,13.6,46.3,21.7,12266.44,True
+SKU-000303,Books_Product_0303,Books,5.546,27.7,48.8,16.7,12731.63,True
+SKU-000304,Fashion_Product_0304,Fashion,7.698,53.2,38.7,27.9,17243.87,True
+SKU-000305,Sports_Product_0305,Sports,8.536,60.0,14.8,41.0,20775.07,True
+SKU-000306,Beauty_Product_0306,Beauty,2.632,31.9,6.4,27.0,6521.79,True
+SKU-000307,Sports_Product_0307,Sports,4.564,33.3,51.6,38.6,22471.48,True
+SKU-000308,Toys_Product_0308,Toys,6.384,38.7,6.1,14.3,17603.07,True
+SKU-000309,Grocery_Product_0309,Grocery,9.043,50.7,14.8,8.3,3986.56,True
+SKU-000310,Sports_Product_0310,Sports,13.008,74.0,21.9,40.4,9090.36,True
+SKU-000311,Fashion_Product_0311,Fashion,4.466,20.9,20.9,43.6,18783.18,True
+SKU-000312,Grocery_Product_0312,Grocery,11.981,72.4,42.4,32.6,13130.95,True
+SKU-000313,Sports_Product_0313,Sports,12.359,46.6,14.0,41.2,17355.98,True
+SKU-000314,Toys_Product_0314,Toys,1.116,52.1,59.5,24.7,7420.69,True
+SKU-000315,Electronics_Product_0315,Electronics,14.021,61.2,47.9,44.7,8744.39,True
+SKU-000316,Home_Kitchen_Product_0316,Home & Kitchen,1.948,15.2,39.3,48.9,1887.22,True
+SKU-000317,Electronics_Product_0317,Electronics,13.056,67.4,31.7,18.9,4676.54,True
+SKU-000318,Fashion_Product_0318,Fashion,1.01,33.5,12.2,35.7,1785.4,True
+SKU-000319,Home_Kitchen_Product_0319,Home & Kitchen,11.599,52.3,38.2,21.1,4575.08,True
+SKU-000320,Books_Product_0320,Books,2.522,67.5,34.2,20.3,4534.88,True
+SKU-000321,Beauty_Product_0321,Beauty,13.07,30.3,49.1,23.1,20644.79,True
+SKU-000322,Home_Kitchen_Product_0322,Home & Kitchen,1.217,9.0,18.7,40.2,1982.23,True
+SKU-000323,Electronics_Product_0323,Electronics,14.349,27.5,39.4,49.7,9660.22,True
+SKU-000324,Electronics_Product_0324,Electronics,11.425,34.0,14.7,46.2,12868.22,True
+SKU-000325,Toys_Product_0325,Toys,13.574,19.0,33.9,39.6,13720.48,True
+SKU-000326,Electronics_Product_0326,Electronics,11.996,65.4,38.6,18.7,19927.54,True
+SKU-000327,Sports_Product_0327,Sports,5.18,11.9,16.2,46.5,12477.97,True
+SKU-000328,Sports_Product_0328,Sports,13.776,45.9,50.3,33.9,11022.24,True
+SKU-000329,Electronics_Product_0329,Electronics,10.413,21.4,22.7,28.1,13784.83,True
+SKU-000330,Beauty_Product_0330,Beauty,6.043,15.9,42.1,15.9,17839.07,True
+SKU-000331,Books_Product_0331,Books,6.86,23.4,49.4,9.1,19541.09,True
+SKU-000332,Sports_Product_0332,Sports,1.639,57.9,6.2,20.1,2086.76,True
+SKU-000333,Home_Kitchen_Product_0333,Home & Kitchen,3.956,77.8,34.2,6.4,15401.44,True
+SKU-000334,Fashion_Product_0334,Fashion,12.331,79.0,54.7,48.2,14606.75,True
+SKU-000335,Toys_Product_0335,Toys,5.392,24.2,43.9,13.3,17259.63,True
+SKU-000336,Fashion_Product_0336,Fashion,8.941,17.9,17.8,28.5,19093.48,True
+SKU-000337,Toys_Product_0337,Toys,9.102,23.0,20.9,33.1,13858.88,True
+SKU-000338,Fashion_Product_0338,Fashion,2.945,18.2,38.5,27.2,22257.63,True
+SKU-000339,Grocery_Product_0339,Grocery,3.42,65.3,25.8,21.2,4678.93,True
+SKU-000340,Books_Product_0340,Books,4.913,20.2,12.6,22.4,18661.07,True
+SKU-000341,Fashion_Product_0341,Fashion,4.049,32.4,51.7,16.8,13328.05,True
+SKU-000342,Home_Kitchen_Product_0342,Home & Kitchen,8.23,33.2,31.6,22.6,12368.05,True
+SKU-000343,Fashion_Product_0343,Fashion,13.108,49.9,41.9,40.6,10914.87,True
+SKU-000344,Home_Kitchen_Product_0344,Home & Kitchen,4.572,37.8,34.6,48.7,13716.99,True
+SKU-000345,Fashion_Product_0345,Fashion,11.753,59.0,49.7,30.2,3340.1,True
+SKU-000346,Beauty_Product_0346,Beauty,0.699,11.6,49.7,29.2,14628.63,True
+SKU-000347,Electronics_Product_0347,Electronics,2.625,24.9,8.0,26.6,20744.35,True
+SKU-000348,Grocery_Product_0348,Grocery,8.496,55.6,58.0,25.0,22315.57,True
+SKU-000349,Electronics_Product_0349,Electronics,7.569,53.8,30.1,43.0,22154.55,True
+SKU-000350,Sports_Product_0350,Sports,10.22,23.3,23.0,47.6,21885.13,True
+SKU-000351,Fashion_Product_0351,Fashion,12.528,17.6,14.5,17.1,5718.79,True
+SKU-000352,Fashion_Product_0352,Fashion,5.109,44.9,35.1,49.3,14914.81,True
+SKU-000353,Fashion_Product_0353,Fashion,7.182,59.8,33.1,44.9,7195.1,True
+SKU-000354,Electronics_Product_0354,Electronics,9.75,31.1,25.3,10.5,18410.6,True
+SKU-000355,Home_Kitchen_Product_0355,Home & Kitchen,14.708,28.5,57.8,33.9,24967.25,True
+SKU-000356,Beauty_Product_0356,Beauty,1.212,54.0,26.9,25.3,7291.74,True
+SKU-000357,Books_Product_0357,Books,4.799,57.4,20.9,12.5,20680.73,True
+SKU-000358,Toys_Product_0358,Toys,12.245,6.5,18.7,14.2,1020.49,True
+SKU-000359,Home_Kitchen_Product_0359,Home & Kitchen,7.105,75.5,21.8,10.0,9077.74,True
+SKU-000360,Electronics_Product_0360,Electronics,11.81,20.7,29.2,20.6,1685.25,True
+SKU-000361,Fashion_Product_0361,Fashion,9.392,53.1,28.8,9.3,16672.69,True
+SKU-000362,Beauty_Product_0362,Beauty,8.597,38.7,40.7,19.8,23192.18,True
+SKU-000363,Grocery_Product_0363,Grocery,7.114,20.2,55.2,46.0,20620.42,True
+SKU-000364,Sports_Product_0364,Sports,1.391,26.8,28.5,40.0,24920.61,True
+SKU-000365,Grocery_Product_0365,Grocery,1.355,53.2,15.1,42.0,23116.4,True
+SKU-000366,Beauty_Product_0366,Beauty,5.738,31.9,28.4,13.8,20056.5,True
+SKU-000367,Beauty_Product_0367,Beauty,7.275,65.2,21.4,22.4,20183.88,True
+SKU-000368,Beauty_Product_0368,Beauty,8.262,64.1,49.3,27.1,2165.5,True
+SKU-000369,Fashion_Product_0369,Fashion,7.692,60.4,47.2,10.9,18184.86,True
+SKU-000370,Fashion_Product_0370,Fashion,4.367,55.7,49.9,49.1,17637.96,True
+SKU-000371,Sports_Product_0371,Sports,11.751,62.8,26.3,8.9,3175.23,True
+SKU-000372,Electronics_Product_0372,Electronics,3.668,52.2,10.7,12.7,20816.4,True
+SKU-000373,Electronics_Product_0373,Electronics,7.745,65.8,33.4,38.3,24601.61,True
+SKU-000374,Grocery_Product_0374,Grocery,8.735,65.4,31.9,24.8,19851.39,True
+SKU-000375,Sports_Product_0375,Sports,9.222,5.2,57.9,13.8,20682.95,True
+SKU-000376,Fashion_Product_0376,Fashion,10.835,10.1,49.6,41.6,16976.49,True
+SKU-000377,Toys_Product_0377,Toys,12.778,10.9,39.9,45.0,13370.14,True
+SKU-000378,Beauty_Product_0378,Beauty,9.056,18.3,52.8,33.9,9178.11,True
+SKU-000379,Books_Product_0379,Books,14.759,10.4,14.9,40.1,21241.01,True
+SKU-000380,Sports_Product_0380,Sports,4.193,37.4,18.2,47.6,16300.97,True
+SKU-000381,Books_Product_0381,Books,6.351,39.7,36.9,35.7,12896.34,True
+SKU-000382,Fashion_Product_0382,Fashion,13.501,70.8,39.9,8.9,17227.1,True
+SKU-000383,Electronics_Product_0383,Electronics,6.77,74.2,58.5,11.6,16821.05,True
+SKU-000384,Home_Kitchen_Product_0384,Home & Kitchen,4.099,54.3,35.7,37.6,7971.43,True
+SKU-000385,Grocery_Product_0385,Grocery,1.073,52.7,53.2,18.5,4935.33,True
+SKU-000386,Sports_Product_0386,Sports,12.337,78.9,32.8,46.7,14189.28,True
+SKU-000387,Beauty_Product_0387,Beauty,2.592,24.4,54.2,21.1,7139.22,True
+SKU-000388,Toys_Product_0388,Toys,13.475,35.5,59.4,40.3,11028.34,True
+SKU-000389,Toys_Product_0389,Toys,8.058,75.2,31.8,46.8,2991.27,True
+SKU-000390,Fashion_Product_0390,Fashion,3.468,64.1,17.6,11.8,5351.3,True
+SKU-000391,Toys_Product_0391,Toys,13.655,62.4,13.6,39.6,15219.41,True
+SKU-000392,Fashion_Product_0392,Fashion,14.709,64.2,14.8,33.9,10645.5,True
+SKU-000393,Sports_Product_0393,Sports,14.148,32.4,24.7,16.7,8359.83,True
+SKU-000394,Fashion_Product_0394,Fashion,0.774,69.5,44.5,28.6,17101.89,True
+SKU-000395,Toys_Product_0395,Toys,12.268,59.5,33.9,13.2,503.56,True
+SKU-000396,Home_Kitchen_Product_0396,Home & Kitchen,11.391,8.9,33.0,18.3,24212.95,True
+SKU-000397,Books_Product_0397,Books,2.424,57.5,35.2,44.2,1724.68,True
+SKU-000398,Toys_Product_0398,Toys,8.019,54.7,37.9,38.5,5741.3,True
+SKU-000399,Books_Product_0399,Books,8.661,38.3,12.6,25.9,11945.08,True
+SKU-000400,Grocery_Product_0400,Grocery,2.78,30.4,17.2,14.6,11934.2,True
+SKU-000401,Books_Product_0401,Books,3.645,25.3,44.6,18.3,9895.37,True
+SKU-000402,Books_Product_0402,Books,2.801,61.4,55.0,7.0,23322.99,True
+SKU-000403,Beauty_Product_0403,Beauty,8.583,5.8,24.2,9.8,15728.52,True
+SKU-000404,Books_Product_0404,Books,3.676,38.2,7.2,5.2,14954.08,True
+SKU-000405,Home_Kitchen_Product_0405,Home & Kitchen,7.802,76.1,50.2,44.3,9764.88,True
+SKU-000406,Beauty_Product_0406,Beauty,13.442,24.7,24.4,27.6,16957.88,True
+SKU-000407,Beauty_Product_0407,Beauty,1.878,45.1,23.5,7.5,3029.2,True
+SKU-000408,Beauty_Product_0408,Beauty,10.621,79.1,57.1,29.5,1891.72,True
+SKU-000409,Grocery_Product_0409,Grocery,6.953,49.8,31.3,33.5,22611.19,True
+SKU-000410,Grocery_Product_0410,Grocery,3.824,34.8,19.2,37.6,7741.38,True
+SKU-000411,Electronics_Product_0411,Electronics,4.147,32.1,48.9,44.7,23537.02,True
+SKU-000412,Electronics_Product_0412,Electronics,6.932,17.3,49.7,3.0,22251.88,True
+SKU-000413,Home_Kitchen_Product_0413,Home & Kitchen,2.599,40.2,12.8,49.4,4067.03,True
+SKU-000414,Home_Kitchen_Product_0414,Home & Kitchen,12.675,7.6,47.4,25.3,14211.95,True
+SKU-000415,Grocery_Product_0415,Grocery,9.088,5.8,45.4,43.0,1011.95,True
+SKU-000416,Books_Product_0416,Books,1.73,41.0,33.8,21.6,19352.45,True
+SKU-000417,Beauty_Product_0417,Beauty,13.596,55.8,17.3,14.5,22670.84,True
+SKU-000418,Sports_Product_0418,Sports,6.514,53.4,52.7,37.9,4358.23,True
+SKU-000419,Home_Kitchen_Product_0419,Home & Kitchen,13.063,58.0,24.3,45.3,177.95,True
+SKU-000420,Beauty_Product_0420,Beauty,6.052,49.7,50.7,3.8,20798.51,True
+SKU-000421,Home_Kitchen_Product_0421,Home & Kitchen,3.219,65.6,18.0,15.8,7729.33,True
+SKU-000422,Fashion_Product_0422,Fashion,13.181,45.7,37.5,33.4,19161.14,True
+SKU-000423,Sports_Product_0423,Sports,13.91,21.2,12.0,14.3,23748.0,True
+SKU-000424,Electronics_Product_0424,Electronics,0.583,6.2,29.1,20.1,21093.69,True
+SKU-000425,Sports_Product_0425,Sports,4.403,77.9,51.0,34.9,12643.25,True
+SKU-000426,Sports_Product_0426,Sports,6.36,75.0,50.8,11.5,6449.9,True
+SKU-000427,Fashion_Product_0427,Fashion,0.687,14.7,19.2,6.8,5101.23,True
+SKU-000428,Beauty_Product_0428,Beauty,5.869,79.7,36.5,8.5,18472.71,True
+SKU-000429,Grocery_Product_0429,Grocery,9.288,69.7,6.8,13.4,4996.91,True
+SKU-000430,Sports_Product_0430,Sports,7.785,48.0,16.4,45.5,11427.85,True
+SKU-000431,Grocery_Product_0431,Grocery,6.465,32.0,22.5,27.0,23961.46,True
+SKU-000432,Toys_Product_0432,Toys,9.118,13.5,27.3,3.8,7202.05,True
+SKU-000433,Fashion_Product_0433,Fashion,10.871,59.9,39.8,49.7,13248.19,True
+SKU-000434,Electronics_Product_0434,Electronics,9.843,77.1,36.9,22.3,4509.66,True
+SKU-000435,Fashion_Product_0435,Fashion,10.943,26.2,45.7,30.4,1087.61,True
+SKU-000436,Fashion_Product_0436,Fashion,11.333,17.2,46.4,10.3,24287.37,True
+SKU-000437,Sports_Product_0437,Sports,12.894,45.5,36.8,40.2,756.9,True
+SKU-000438,Beauty_Product_0438,Beauty,0.194,9.5,45.5,22.7,20950.13,True
+SKU-000439,Sports_Product_0439,Sports,1.489,57.4,23.8,14.9,22749.57,True
+SKU-000440,Books_Product_0440,Books,4.395,49.7,5.2,16.9,19260.6,True
+SKU-000441,Grocery_Product_0441,Grocery,3.095,79.6,28.2,33.6,19900.89,True
+SKU-000442,Beauty_Product_0442,Beauty,13.173,47.4,32.4,28.1,21235.63,True
+SKU-000443,Electronics_Product_0443,Electronics,6.426,50.8,32.9,14.3,13788.11,True
+SKU-000444,Beauty_Product_0444,Beauty,11.276,45.6,22.3,30.3,407.22,True
+SKU-000445,Grocery_Product_0445,Grocery,8.64,25.7,7.4,5.4,20323.04,True
+SKU-000446,Toys_Product_0446,Toys,3.928,55.3,37.3,38.5,1037.94,True
+SKU-000447,Beauty_Product_0447,Beauty,14.171,37.5,45.7,10.3,7218.81,True
+SKU-000448,Electronics_Product_0448,Electronics,2.96,14.6,39.9,49.3,15921.38,True
+SKU-000449,Fashion_Product_0449,Fashion,12.485,17.4,46.9,14.0,21771.7,True
+SKU-000450,Sports_Product_0450,Sports,6.21,62.9,19.6,40.3,1223.15,True
+SKU-000451,Grocery_Product_0451,Grocery,12.941,17.5,22.0,35.2,19989.88,True
+SKU-000452,Grocery_Product_0452,Grocery,11.151,22.7,57.5,45.8,13412.25,True
+SKU-000453,Home_Kitchen_Product_0453,Home & Kitchen,11.496,40.4,43.6,16.8,19402.18,True
+SKU-000454,Grocery_Product_0454,Grocery,4.458,71.9,38.5,34.3,13855.19,True
+SKU-000455,Beauty_Product_0455,Beauty,8.041,9.7,7.4,10.7,21786.86,True
+SKU-000456,Grocery_Product_0456,Grocery,12.055,26.1,7.8,3.2,3724.71,True
+SKU-000457,Grocery_Product_0457,Grocery,9.885,30.0,15.2,7.7,5746.55,True
+SKU-000458,Toys_Product_0458,Toys,13.751,32.5,12.4,13.9,4950.75,True
+SKU-000459,Grocery_Product_0459,Grocery,10.671,67.1,39.3,49.1,7663.82,True
+SKU-000460,Beauty_Product_0460,Beauty,12.591,5.8,25.4,43.7,1244.95,True
+SKU-000461,Home_Kitchen_Product_0461,Home & Kitchen,11.748,54.2,36.7,3.7,10551.9,True
+SKU-000462,Toys_Product_0462,Toys,12.74,28.2,55.0,47.7,8607.12,True
+SKU-000463,Electronics_Product_0463,Electronics,5.667,31.8,30.1,25.7,17116.04,True
+SKU-000464,Beauty_Product_0464,Beauty,13.93,62.6,56.1,48.0,22117.52,True
+SKU-000465,Home_Kitchen_Product_0465,Home & Kitchen,12.063,30.3,20.1,13.1,13462.16,True
+SKU-000466,Books_Product_0466,Books,8.711,17.1,48.7,25.5,19909.29,True
+SKU-000467,Home_Kitchen_Product_0467,Home & Kitchen,10.638,20.4,44.6,29.9,4673.08,True
+SKU-000468,Toys_Product_0468,Toys,4.886,44.2,24.4,10.7,9608.77,True
+SKU-000469,Beauty_Product_0469,Beauty,7.166,6.3,11.9,15.4,6187.45,True
+SKU-000470,Sports_Product_0470,Sports,11.513,37.0,6.7,22.5,22030.29,True
+SKU-000471,Toys_Product_0471,Toys,13.608,31.8,45.2,20.0,589.07,True
+SKU-000472,Electronics_Product_0472,Electronics,4.319,17.4,30.1,19.9,17107.32,True
+SKU-000473,Sports_Product_0473,Sports,9.145,30.2,16.5,35.2,12512.4,True
+SKU-000474,Books_Product_0474,Books,6.525,21.6,58.5,30.0,19365.5,True
+SKU-000475,Sports_Product_0475,Sports,2.745,12.5,45.9,7.4,24927.22,True
+SKU-000476,Books_Product_0476,Books,11.421,41.6,7.2,36.3,12817.98,True
+SKU-000477,Beauty_Product_0477,Beauty,7.328,65.0,34.1,23.4,2900.67,True
+SKU-000478,Sports_Product_0478,Sports,4.281,39.4,31.8,4.2,13518.67,True
+SKU-000479,Toys_Product_0479,Toys,7.657,78.0,6.7,3.6,16366.07,True
+SKU-000480,Toys_Product_0480,Toys,6.925,54.3,51.3,47.1,12783.75,True
+SKU-000481,Fashion_Product_0481,Fashion,5.322,9.6,21.5,15.9,11334.87,True
+SKU-000482,Fashion_Product_0482,Fashion,14.187,33.6,52.6,25.2,8431.47,True
+SKU-000483,Grocery_Product_0483,Grocery,10.129,13.0,31.1,7.9,20521.15,True
+SKU-000484,Fashion_Product_0484,Fashion,11.342,61.3,24.3,17.3,8477.3,True
+SKU-000485,Sports_Product_0485,Sports,7.187,19.6,30.0,22.5,2508.99,True
+SKU-000486,Beauty_Product_0486,Beauty,0.422,28.4,26.9,40.5,9691.63,True
+SKU-000487,Fashion_Product_0487,Fashion,5.713,11.2,24.9,24.9,12354.13,True
+SKU-000488,Fashion_Product_0488,Fashion,3.893,61.9,56.7,24.4,13286.16,True
+SKU-000489,Sports_Product_0489,Sports,12.803,65.4,58.2,22.4,23188.56,True
+SKU-000490,Fashion_Product_0490,Fashion,9.682,72.4,16.8,20.8,17173.44,True
+SKU-000491,Home_Kitchen_Product_0491,Home & Kitchen,14.416,42.9,52.8,46.8,20812.78,True
+SKU-000492,Sports_Product_0492,Sports,9.738,75.9,12.6,7.6,16252.01,True
+SKU-000493,Toys_Product_0493,Toys,1.662,55.4,29.6,13.6,17229.99,True
+SKU-000494,Books_Product_0494,Books,0.539,42.2,56.3,39.1,13140.46,True
+SKU-000495,Home_Kitchen_Product_0495,Home & Kitchen,4.513,79.3,5.5,46.5,24202.95,True
+SKU-000496,Home_Kitchen_Product_0496,Home & Kitchen,1.377,76.0,53.1,31.2,13923.97,True
+SKU-000497,Beauty_Product_0497,Beauty,12.581,26.9,29.1,9.1,13565.94,True
+SKU-000498,Fashion_Product_0498,Fashion,0.861,53.6,40.7,37.0,10516.39,True
+SKU-000499,Grocery_Product_0499,Grocery,1.944,15.3,34.5,49.2,11835.9,True
+SKU-000500,Home_Kitchen_Product_0500,Home & Kitchen,7.903,43.4,48.2,46.7,12653.28,True
+SKU-000501,Home_Kitchen_Product_0501,Home & Kitchen,1.024,45.9,7.9,6.6,14767.1,True
+SKU-000502,Toys_Product_0502,Toys,2.467,8.4,6.8,13.2,23408.17,True
+SKU-000503,Fashion_Product_0503,Fashion,2.836,57.7,52.3,12.8,11737.67,True
+SKU-000504,Sports_Product_0504,Sports,13.192,53.9,37.6,19.6,15177.77,True
+SKU-000505,Home_Kitchen_Product_0505,Home & Kitchen,3.057,6.2,21.9,33.8,6474.71,True
+SKU-000506,Electronics_Product_0506,Electronics,0.839,71.9,55.2,4.1,6947.2,True
+SKU-000507,Home_Kitchen_Product_0507,Home & Kitchen,7.4,7.8,16.1,11.8,19594.33,True
+SKU-000508,Books_Product_0508,Books,12.815,20.9,38.5,45.0,11523.12,True
+SKU-000509,Beauty_Product_0509,Beauty,1.525,32.0,42.3,8.9,13282.21,True
+SKU-000510,Sports_Product_0510,Sports,8.299,50.3,33.9,22.6,14277.82,True
+SKU-000511,Beauty_Product_0511,Beauty,11.572,77.2,49.6,45.7,21858.74,True
+SKU-000512,Beauty_Product_0512,Beauty,13.67,15.9,38.0,43.5,11601.9,True
+SKU-000513,Electronics_Product_0513,Electronics,2.692,35.6,36.6,31.6,1981.3,True
+SKU-000514,Beauty_Product_0514,Beauty,10.552,5.6,13.6,12.5,1836.05,True
+SKU-000515,Fashion_Product_0515,Fashion,5.477,67.0,42.3,8.3,5676.7,True
+SKU-000516,Books_Product_0516,Books,1.25,69.2,40.3,20.3,17479.01,True
+SKU-000517,Beauty_Product_0517,Beauty,13.026,25.3,47.4,40.4,5144.45,True
+SKU-000518,Home_Kitchen_Product_0518,Home & Kitchen,7.885,48.2,33.2,41.2,9514.7,True
+SKU-000519,Home_Kitchen_Product_0519,Home & Kitchen,14.281,79.8,55.4,46.1,3428.14,True
+SKU-000520,Home_Kitchen_Product_0520,Home & Kitchen,0.315,49.9,26.0,7.4,4057.25,True
+SKU-000521,Sports_Product_0521,Sports,7.182,47.0,5.7,2.5,24344.5,True
+SKU-000522,Sports_Product_0522,Sports,6.842,65.2,8.6,16.6,1305.02,True
+SKU-000523,Home_Kitchen_Product_0523,Home & Kitchen,2.676,30.1,35.2,44.7,22108.92,True
+SKU-000524,Beauty_Product_0524,Beauty,7.132,17.6,42.7,39.8,3269.96,True
+SKU-000525,Home_Kitchen_Product_0525,Home & Kitchen,14.585,60.4,45.2,22.8,3047.34,True
+SKU-000526,Home_Kitchen_Product_0526,Home & Kitchen,11.977,74.1,50.1,21.3,9396.99,True
+SKU-000527,Grocery_Product_0527,Grocery,2.57,55.6,42.7,22.3,23320.87,True
+SKU-000528,Home_Kitchen_Product_0528,Home & Kitchen,8.711,15.9,17.5,44.0,300.77,True
+SKU-000529,Sports_Product_0529,Sports,1.336,76.3,29.9,43.2,8876.36,True
+SKU-000530,Home_Kitchen_Product_0530,Home & Kitchen,6.893,76.9,34.3,41.4,22106.31,True
+SKU-000531,Sports_Product_0531,Sports,13.808,17.7,56.0,2.2,24199.63,True
+SKU-000532,Electronics_Product_0532,Electronics,5.509,71.5,32.2,2.7,8178.07,True
+SKU-000533,Beauty_Product_0533,Beauty,13.839,20.7,48.0,28.8,10906.06,True
+SKU-000534,Electronics_Product_0534,Electronics,5.486,42.6,12.5,43.0,5379.95,True
+SKU-000535,Sports_Product_0535,Sports,11.376,26.4,17.7,18.7,4334.92,True
+SKU-000536,Toys_Product_0536,Toys,0.077,12.0,57.4,28.0,7646.55,True
+SKU-000537,Electronics_Product_0537,Electronics,13.82,52.2,10.4,32.0,15964.7,True
+SKU-000538,Electronics_Product_0538,Electronics,6.082,20.0,36.2,14.3,10627.74,True
+SKU-000539,Toys_Product_0539,Toys,4.772,70.2,18.8,46.7,19679.24,True
+SKU-000540,Fashion_Product_0540,Fashion,1.043,49.4,30.1,28.5,2768.67,True
+SKU-000541,Sports_Product_0541,Sports,10.922,24.4,48.4,21.0,10773.79,True
+SKU-000542,Sports_Product_0542,Sports,8.545,28.8,34.9,47.4,8877.53,True
+SKU-000543,Toys_Product_0543,Toys,7.133,71.7,10.5,21.2,9256.2,True
+SKU-000544,Home_Kitchen_Product_0544,Home & Kitchen,9.477,76.8,44.3,33.6,9158.01,True
+SKU-000545,Beauty_Product_0545,Beauty,9.39,72.2,22.4,30.2,20674.37,True
+SKU-000546,Electronics_Product_0546,Electronics,14.763,34.6,53.7,20.8,2384.36,True
+SKU-000547,Toys_Product_0547,Toys,5.529,17.3,48.4,11.4,11144.99,True
+SKU-000548,Toys_Product_0548,Toys,3.525,79.3,26.0,44.5,18985.32,True
+SKU-000549,Toys_Product_0549,Toys,8.151,37.2,44.4,7.4,22155.33,True
+SKU-000550,Grocery_Product_0550,Grocery,5.048,16.3,37.0,43.3,3229.49,True
+SKU-000551,Home_Kitchen_Product_0551,Home & Kitchen,5.751,35.9,23.4,5.9,12056.15,True
+SKU-000552,Sports_Product_0552,Sports,13.436,6.3,27.0,30.9,16773.4,True
+SKU-000553,Sports_Product_0553,Sports,7.858,5.9,59.6,9.5,491.97,True
+SKU-000554,Grocery_Product_0554,Grocery,7.402,72.6,40.1,37.6,17863.43,True
+SKU-000555,Electronics_Product_0555,Electronics,11.733,70.5,31.8,21.7,21989.74,True
+SKU-000556,Fashion_Product_0556,Fashion,1.478,70.2,31.5,19.1,23317.11,True
+SKU-000557,Beauty_Product_0557,Beauty,6.189,53.8,12.5,20.8,22960.56,True
+SKU-000558,Sports_Product_0558,Sports,12.382,55.5,15.7,26.6,21673.67,True
+SKU-000559,Toys_Product_0559,Toys,13.803,48.8,42.5,22.1,6225.94,True
+SKU-000560,Sports_Product_0560,Sports,8.83,51.8,43.9,25.4,24661.46,True
+SKU-000561,Home_Kitchen_Product_0561,Home & Kitchen,10.632,57.1,21.5,5.0,4722.69,True
+SKU-000562,Beauty_Product_0562,Beauty,12.817,34.9,42.4,36.3,22854.02,True
+SKU-000563,Beauty_Product_0563,Beauty,0.852,39.1,22.1,9.0,499.72,True
+SKU-000564,Books_Product_0564,Books,4.079,21.7,23.9,36.5,10747.68,True
+SKU-000565,Beauty_Product_0565,Beauty,8.424,68.3,31.1,27.5,2695.81,True
+SKU-000566,Fashion_Product_0566,Fashion,2.019,63.4,37.1,33.9,2774.63,True
+SKU-000567,Home_Kitchen_Product_0567,Home & Kitchen,14.157,20.2,9.3,20.4,15779.08,True
+SKU-000568,Electronics_Product_0568,Electronics,0.934,68.9,8.4,34.1,8205.31,True
+SKU-000569,Books_Product_0569,Books,11.748,65.1,6.1,21.5,7513.29,True
+SKU-000570,Sports_Product_0570,Sports,14.854,72.0,25.8,39.6,2947.45,True
+SKU-000571,Grocery_Product_0571,Grocery,10.169,53.3,28.4,6.8,21322.57,True
+SKU-000572,Grocery_Product_0572,Grocery,12.232,50.4,55.6,45.8,10928.21,True
+SKU-000573,Beauty_Product_0573,Beauty,7.049,69.8,53.3,5.5,10344.86,True
+SKU-000574,Beauty_Product_0574,Beauty,8.431,65.5,39.5,22.2,17327.55,True
+SKU-000575,Electronics_Product_0575,Electronics,9.613,73.1,19.8,7.2,23420.66,True
+SKU-000576,Electronics_Product_0576,Electronics,13.014,76.9,26.7,31.0,24395.29,True
+SKU-000577,Toys_Product_0577,Toys,0.371,23.1,29.0,13.1,18884.02,True
+SKU-000578,Toys_Product_0578,Toys,13.399,56.4,5.8,37.0,15799.46,True
+SKU-000579,Beauty_Product_0579,Beauty,2.277,79.0,22.5,48.6,17184.53,True
+SKU-000580,Beauty_Product_0580,Beauty,5.322,13.8,58.6,44.2,11635.2,True
+SKU-000581,Sports_Product_0581,Sports,13.596,27.0,25.5,49.4,6032.34,True
+SKU-000582,Beauty_Product_0582,Beauty,9.283,50.6,54.9,44.8,8744.23,True
+SKU-000583,Beauty_Product_0583,Beauty,5.544,78.1,58.6,35.5,19598.7,True
+SKU-000584,Fashion_Product_0584,Fashion,12.064,73.6,31.1,46.3,15459.49,True
+SKU-000585,Beauty_Product_0585,Beauty,7.612,9.5,39.6,43.4,1748.35,True
+SKU-000586,Beauty_Product_0586,Beauty,2.957,5.1,39.3,14.4,16289.37,True
+SKU-000587,Fashion_Product_0587,Fashion,14.461,14.5,34.9,25.7,19645.29,True
+SKU-000588,Fashion_Product_0588,Fashion,1.296,58.7,51.2,5.0,4275.31,True
+SKU-000589,Fashion_Product_0589,Fashion,2.091,38.6,6.4,11.5,14131.27,True
+SKU-000590,Toys_Product_0590,Toys,3.544,45.3,33.0,30.4,15767.11,True
+SKU-000591,Toys_Product_0591,Toys,11.617,16.0,9.7,25.5,1504.15,True
+SKU-000592,Fashion_Product_0592,Fashion,7.033,26.9,13.1,10.3,596.44,True
+SKU-000593,Electronics_Product_0593,Electronics,5.811,78.5,44.6,24.4,16726.14,True
+SKU-000594,Grocery_Product_0594,Grocery,7.962,36.5,58.8,21.0,19206.48,True
+SKU-000595,Fashion_Product_0595,Fashion,13.029,37.5,29.6,7.4,13904.14,True
+SKU-000596,Home_Kitchen_Product_0596,Home & Kitchen,2.2,6.2,28.1,13.2,7133.14,True
+SKU-000597,Grocery_Product_0597,Grocery,4.214,54.0,8.2,34.8,12838.24,True
+SKU-000598,Electronics_Product_0598,Electronics,7.504,76.0,24.7,14.5,22957.6,True
+SKU-000599,Books_Product_0599,Books,13.202,20.1,57.9,6.7,11001.01,True
+SKU-000600,Beauty_Product_0600,Beauty,1.469,70.0,54.1,44.4,23049.74,True
+SKU-000601,Beauty_Product_0601,Beauty,6.108,57.8,55.5,7.5,2138.99,True
+SKU-000602,Toys_Product_0602,Toys,4.635,60.1,37.7,21.6,14949.79,True
+SKU-000603,Sports_Product_0603,Sports,13.447,16.6,11.5,7.7,17391.43,True
+SKU-000604,Electronics_Product_0604,Electronics,0.454,21.1,44.6,33.2,24758.67,True
+SKU-000605,Toys_Product_0605,Toys,3.147,35.4,58.1,13.0,21981.8,True
+SKU-000606,Fashion_Product_0606,Fashion,10.837,33.1,25.5,6.5,13957.57,True
+SKU-000607,Electronics_Product_0607,Electronics,9.142,24.8,50.1,4.1,728.23,True
+SKU-000608,Home_Kitchen_Product_0608,Home & Kitchen,0.15,64.9,39.0,37.9,23611.62,True
+SKU-000609,Toys_Product_0609,Toys,11.587,16.5,51.4,42.5,14378.99,True
+SKU-000610,Electronics_Product_0610,Electronics,0.301,73.0,34.9,41.8,20147.1,True
+SKU-000611,Sports_Product_0611,Sports,12.154,48.8,41.3,34.1,3808.21,True
+SKU-000612,Electronics_Product_0612,Electronics,13.701,19.7,8.7,14.7,6691.22,True
+SKU-000613,Home_Kitchen_Product_0613,Home & Kitchen,5.144,62.0,53.9,3.5,11288.01,True
+SKU-000614,Beauty_Product_0614,Beauty,10.502,36.4,6.8,2.1,20268.73,True
+SKU-000615,Home_Kitchen_Product_0615,Home & Kitchen,0.121,38.5,15.7,49.4,19418.57,True
+SKU-000616,Sports_Product_0616,Sports,1.459,13.0,55.5,17.1,22855.97,True
+SKU-000617,Fashion_Product_0617,Fashion,6.39,21.2,36.0,19.2,23920.27,True
+SKU-000618,Grocery_Product_0618,Grocery,6.721,35.8,30.7,5.3,13854.35,True
+SKU-000619,Electronics_Product_0619,Electronics,14.835,28.3,28.8,41.4,14919.75,True
+SKU-000620,Home_Kitchen_Product_0620,Home & Kitchen,3.903,79.5,50.4,10.3,6799.44,True
+SKU-000621,Home_Kitchen_Product_0621,Home & Kitchen,14.965,22.8,39.3,26.2,18425.98,True
+SKU-000622,Books_Product_0622,Books,13.532,6.3,52.8,12.7,22552.8,True
+SKU-000623,Fashion_Product_0623,Fashion,10.607,33.7,25.4,15.4,10402.19,True
+SKU-000624,Electronics_Product_0624,Electronics,11.456,28.4,9.2,29.8,14100.68,True
+SKU-000625,Electronics_Product_0625,Electronics,7.216,14.8,31.0,20.1,14236.26,True
+SKU-000626,Toys_Product_0626,Toys,7.566,7.4,46.4,13.7,3028.22,True
+SKU-000627,Home_Kitchen_Product_0627,Home & Kitchen,7.406,12.3,28.7,7.3,21991.55,True
+SKU-000628,Toys_Product_0628,Toys,11.19,79.8,58.0,28.7,24812.8,True
+SKU-000629,Grocery_Product_0629,Grocery,7.5,52.5,11.0,33.7,5946.44,True
+SKU-000630,Fashion_Product_0630,Fashion,12.056,46.7,45.0,30.4,1679.15,True
+SKU-000631,Toys_Product_0631,Toys,9.026,29.2,45.1,34.9,7368.42,True
+SKU-000632,Sports_Product_0632,Sports,11.263,65.2,52.3,45.4,16808.46,True
+SKU-000633,Electronics_Product_0633,Electronics,4.819,77.9,6.4,20.5,7353.52,True
+SKU-000634,Grocery_Product_0634,Grocery,6.296,29.8,6.0,23.2,5980.29,True
+SKU-000635,Books_Product_0635,Books,7.949,31.7,47.8,43.1,6882.14,True
+SKU-000636,Fashion_Product_0636,Fashion,9.215,78.5,8.0,33.9,18200.38,True
+SKU-000637,Fashion_Product_0637,Fashion,13.725,78.6,36.9,46.9,5966.2,True
+SKU-000638,Sports_Product_0638,Sports,8.629,26.5,22.1,44.5,735.12,True
+SKU-000639,Beauty_Product_0639,Beauty,3.269,65.5,50.9,21.7,13807.19,True
+SKU-000640,Toys_Product_0640,Toys,7.769,16.2,20.0,2.6,895.76,True
+SKU-000641,Sports_Product_0641,Sports,7.805,44.9,36.7,44.6,24291.17,True
+SKU-000642,Fashion_Product_0642,Fashion,10.344,70.8,17.3,45.5,13202.37,True
+SKU-000643,Beauty_Product_0643,Beauty,5.868,46.0,44.0,10.0,18225.23,True
+SKU-000644,Sports_Product_0644,Sports,10.14,53.9,20.6,46.8,9546.89,True
+SKU-000645,Toys_Product_0645,Toys,4.714,55.3,13.0,13.2,20958.15,True
+SKU-000646,Fashion_Product_0646,Fashion,0.949,32.5,19.2,23.1,16659.31,True
+SKU-000647,Electronics_Product_0647,Electronics,2.493,59.4,45.2,11.8,20898.16,True
+SKU-000648,Fashion_Product_0648,Fashion,7.719,62.6,19.3,12.4,11497.41,True
+SKU-000649,Books_Product_0649,Books,2.349,16.1,27.3,46.6,7541.25,True
+SKU-000650,Beauty_Product_0650,Beauty,3.121,56.2,10.3,34.8,3974.41,True
+SKU-000651,Electronics_Product_0651,Electronics,3.693,49.0,18.1,41.4,22640.13,True
+SKU-000652,Fashion_Product_0652,Fashion,13.483,44.6,23.3,16.6,11161.48,True
+SKU-000653,Home_Kitchen_Product_0653,Home & Kitchen,14.542,17.1,29.7,34.2,22038.05,True
+SKU-000654,Home_Kitchen_Product_0654,Home & Kitchen,4.408,24.9,45.0,42.8,11808.66,True
+SKU-000655,Electronics_Product_0655,Electronics,10.849,24.0,5.5,44.2,19859.26,True
+SKU-000656,Fashion_Product_0656,Fashion,7.805,58.9,46.4,42.5,4240.11,True
+SKU-000657,Beauty_Product_0657,Beauty,9.798,73.1,51.5,28.2,14389.1,True
+SKU-000658,Grocery_Product_0658,Grocery,2.661,6.6,35.0,7.5,24133.07,True
+SKU-000659,Fashion_Product_0659,Fashion,14.503,70.2,21.1,49.5,2204.44,True
+SKU-000660,Beauty_Product_0660,Beauty,5.674,51.7,10.9,39.5,14360.71,True
+SKU-000661,Toys_Product_0661,Toys,8.105,5.8,49.1,43.1,10505.63,True
+SKU-000662,Electronics_Product_0662,Electronics,12.472,54.5,34.5,22.0,22253.65,True
+SKU-000663,Electronics_Product_0663,Electronics,14.031,76.5,31.0,48.4,13728.71,True
+SKU-000664,Books_Product_0664,Books,0.977,56.9,18.2,28.1,20736.17,True
+SKU-000665,Toys_Product_0665,Toys,6.022,71.5,5.2,35.8,23934.51,True
+SKU-000666,Books_Product_0666,Books,7.882,8.0,43.2,41.7,16648.29,True
+SKU-000667,Home_Kitchen_Product_0667,Home & Kitchen,1.25,29.2,37.7,11.3,15023.44,True
+SKU-000668,Beauty_Product_0668,Beauty,3.548,72.0,51.1,36.8,18380.6,True
+SKU-000669,Sports_Product_0669,Sports,11.64,5.8,31.2,36.4,15653.88,True
+SKU-000670,Fashion_Product_0670,Fashion,4.3,31.0,25.7,42.4,10319.9,True
+SKU-000671,Fashion_Product_0671,Fashion,6.418,61.3,53.0,20.5,14925.37,True
+SKU-000672,Toys_Product_0672,Toys,12.231,68.0,38.3,21.7,23447.2,True
+SKU-000673,Toys_Product_0673,Toys,4.116,60.2,13.3,3.9,15121.8,True
+SKU-000674,Sports_Product_0674,Sports,3.643,73.0,17.8,42.3,2606.8,True
+SKU-000675,Electronics_Product_0675,Electronics,1.444,24.7,5.1,15.1,7068.93,True
+SKU-000676,Fashion_Product_0676,Fashion,10.56,78.6,58.4,47.0,3675.85,True
+SKU-000677,Home_Kitchen_Product_0677,Home & Kitchen,9.042,12.3,50.7,7.1,14164.81,True
+SKU-000678,Fashion_Product_0678,Fashion,6.308,27.9,10.8,31.0,20285.29,True
+SKU-000679,Electronics_Product_0679,Electronics,1.307,29.5,26.0,11.9,12108.11,True
+SKU-000680,Home_Kitchen_Product_0680,Home & Kitchen,5.694,15.0,57.8,5.6,4703.25,True
+SKU-000681,Sports_Product_0681,Sports,5.736,72.7,28.1,2.5,6631.86,True
+SKU-000682,Electronics_Product_0682,Electronics,14.001,36.3,23.7,13.5,15740.29,True
+SKU-000683,Fashion_Product_0683,Fashion,11.361,79.5,11.7,17.9,19299.73,True
+SKU-000684,Fashion_Product_0684,Fashion,2.257,71.5,9.2,34.4,22314.1,True
+SKU-000685,Home_Kitchen_Product_0685,Home & Kitchen,5.175,73.0,54.9,41.1,4070.16,True
+SKU-000686,Sports_Product_0686,Sports,10.648,11.3,28.6,10.5,4567.6,True
+SKU-000687,Toys_Product_0687,Toys,7.594,19.4,44.9,48.1,19682.64,True
+SKU-000688,Home_Kitchen_Product_0688,Home & Kitchen,6.74,29.4,41.3,37.6,18417.53,True
+SKU-000689,Grocery_Product_0689,Grocery,0.696,26.8,26.0,3.5,22483.66,True
+SKU-000690,Beauty_Product_0690,Beauty,6.435,66.8,25.8,7.0,22439.39,True
+SKU-000691,Electronics_Product_0691,Electronics,1.515,67.9,22.5,31.3,2894.4,True
+SKU-000692,Grocery_Product_0692,Grocery,6.34,68.0,26.5,40.3,15933.75,True
+SKU-000693,Beauty_Product_0693,Beauty,2.284,71.5,56.0,28.7,24620.75,True
+SKU-000694,Fashion_Product_0694,Fashion,8.013,64.3,24.1,10.4,20077.47,True
+SKU-000695,Beauty_Product_0695,Beauty,11.071,79.4,6.4,33.2,24595.88,True
+SKU-000696,Sports_Product_0696,Sports,11.186,26.1,8.5,19.2,23785.82,True
+SKU-000697,Toys_Product_0697,Toys,11.347,22.0,29.4,21.9,10570.51,True
+SKU-000698,Fashion_Product_0698,Fashion,0.617,10.8,54.7,28.0,17388.89,True
+SKU-000699,Grocery_Product_0699,Grocery,7.383,60.6,44.2,19.0,23331.56,True
+SKU-000700,Beauty_Product_0700,Beauty,5.945,43.4,54.8,4.2,18478.41,True
+SKU-000701,Fashion_Product_0701,Fashion,0.635,24.9,38.5,14.2,15748.48,True
+SKU-000702,Fashion_Product_0702,Fashion,10.523,51.9,29.1,38.8,21311.08,True
+SKU-000703,Grocery_Product_0703,Grocery,14.921,36.9,59.5,44.5,7430.13,True
+SKU-000704,Electronics_Product_0704,Electronics,0.162,24.2,25.1,35.3,22985.82,True
+SKU-000705,Toys_Product_0705,Toys,8.142,32.2,56.5,20.2,23831.51,True
+SKU-000706,Grocery_Product_0706,Grocery,11.735,17.3,15.3,26.5,4483.28,True
+SKU-000707,Home_Kitchen_Product_0707,Home & Kitchen,6.231,77.0,31.3,49.0,22791.22,True
+SKU-000708,Electronics_Product_0708,Electronics,12.066,42.3,29.9,24.0,21190.26,True
+SKU-000709,Grocery_Product_0709,Grocery,3.913,28.1,31.0,40.1,11282.92,True
+SKU-000710,Sports_Product_0710,Sports,14.673,53.7,6.5,39.2,3373.63,True
+SKU-000711,Beauty_Product_0711,Beauty,4.453,25.9,9.0,31.4,3780.06,True
+SKU-000712,Toys_Product_0712,Toys,7.289,7.5,5.5,32.1,2438.46,True
+SKU-000713,Books_Product_0713,Books,10.208,74.7,12.8,45.9,24238.14,True
+SKU-000714,Fashion_Product_0714,Fashion,7.943,16.6,14.3,13.9,1550.78,True
+SKU-000715,Fashion_Product_0715,Fashion,0.936,72.4,44.2,3.3,11307.79,True
+SKU-000716,Electronics_Product_0716,Electronics,14.743,78.6,10.5,44.3,1119.82,True
+SKU-000717,Home_Kitchen_Product_0717,Home & Kitchen,0.505,23.0,5.9,23.1,23816.49,True
+SKU-000718,Electronics_Product_0718,Electronics,14.154,23.6,13.5,20.4,6589.26,True
+SKU-000719,Grocery_Product_0719,Grocery,9.719,58.8,29.6,28.2,5470.86,True
+SKU-000720,Grocery_Product_0720,Grocery,10.734,78.9,25.8,9.6,19987.16,True
+SKU-000721,Toys_Product_0721,Toys,5.034,27.2,38.7,19.9,11118.09,True
+SKU-000722,Home_Kitchen_Product_0722,Home & Kitchen,14.374,65.4,43.8,46.0,14046.06,True
+SKU-000723,Books_Product_0723,Books,9.765,20.7,17.9,7.5,3459.38,True
+SKU-000724,Books_Product_0724,Books,2.536,76.1,16.8,13.8,20784.95,True
+SKU-000725,Home_Kitchen_Product_0725,Home & Kitchen,10.216,37.6,23.3,6.8,16065.71,True
+SKU-000726,Grocery_Product_0726,Grocery,1.418,39.2,43.5,42.1,6167.58,True
+SKU-000727,Fashion_Product_0727,Fashion,5.105,48.0,15.2,9.1,7980.1,True
+SKU-000728,Electronics_Product_0728,Electronics,13.238,39.0,42.6,12.3,20529.74,True
+SKU-000729,Grocery_Product_0729,Grocery,9.556,7.2,10.0,4.4,12715.99,True
+SKU-000730,Fashion_Product_0730,Fashion,9.731,58.4,56.7,18.6,540.66,True
+SKU-000731,Home_Kitchen_Product_0731,Home & Kitchen,0.78,60.8,49.4,35.2,1600.83,True
+SKU-000732,Toys_Product_0732,Toys,3.575,21.4,56.9,26.3,15880.55,True
+SKU-000733,Electronics_Product_0733,Electronics,10.779,40.3,58.3,17.4,3270.12,True
+SKU-000734,Electronics_Product_0734,Electronics,10.818,65.9,38.4,42.2,6660.07,True
+SKU-000735,Beauty_Product_0735,Beauty,6.746,19.7,52.5,45.1,6852.41,True
+SKU-000736,Electronics_Product_0736,Electronics,14.048,22.2,57.2,32.3,1150.48,True
+SKU-000737,Sports_Product_0737,Sports,4.517,9.1,34.3,42.0,661.59,True
+SKU-000738,Grocery_Product_0738,Grocery,1.979,65.7,33.4,25.0,15640.01,True
+SKU-000739,Sports_Product_0739,Sports,4.407,29.4,50.3,34.3,24940.47,True
+SKU-000740,Grocery_Product_0740,Grocery,5.518,5.2,43.8,30.3,14658.32,True
+SKU-000741,Fashion_Product_0741,Fashion,0.914,68.0,21.9,29.1,16253.95,True
+SKU-000742,Toys_Product_0742,Toys,10.511,70.4,23.5,12.8,19864.39,True
+SKU-000743,Grocery_Product_0743,Grocery,12.152,24.3,12.7,32.9,22297.01,True
+SKU-000744,Books_Product_0744,Books,8.54,31.4,37.3,33.3,7223.22,True
+SKU-000745,Grocery_Product_0745,Grocery,7.52,17.2,21.0,22.4,9540.07,True
+SKU-000746,Home_Kitchen_Product_0746,Home & Kitchen,0.08,66.0,40.4,33.3,17033.51,True
+SKU-000747,Home_Kitchen_Product_0747,Home & Kitchen,6.945,6.0,10.3,22.9,12688.32,True
+SKU-000748,Fashion_Product_0748,Fashion,3.653,5.2,51.5,46.8,19363.8,True
+SKU-000749,Books_Product_0749,Books,10.291,41.4,16.3,33.5,17101.11,True
+SKU-000750,Toys_Product_0750,Toys,0.499,79.9,46.0,7.8,19234.28,True
+SKU-000751,Toys_Product_0751,Toys,4.93,75.0,9.4,28.7,24165.09,True
+SKU-000752,Home_Kitchen_Product_0752,Home & Kitchen,10.904,16.7,8.7,37.8,16150.67,True
+SKU-000753,Beauty_Product_0753,Beauty,1.908,7.2,27.1,13.9,19446.63,True
+SKU-000754,Grocery_Product_0754,Grocery,12.431,45.1,59.3,23.2,15895.08,True
+SKU-000755,Books_Product_0755,Books,2.945,53.7,48.5,4.7,10312.44,True
+SKU-000756,Sports_Product_0756,Sports,4.992,68.9,36.3,26.7,19591.65,True
+SKU-000757,Grocery_Product_0757,Grocery,9.787,26.4,58.1,28.1,8401.33,True
+SKU-000758,Beauty_Product_0758,Beauty,6.648,26.9,14.6,36.7,11465.04,True
+SKU-000759,Grocery_Product_0759,Grocery,12.077,23.8,24.6,18.3,17333.45,True
+SKU-000760,Fashion_Product_0760,Fashion,14.504,62.8,14.4,21.2,5583.9,True
+SKU-000761,Toys_Product_0761,Toys,12.346,61.3,22.5,40.3,4946.43,True
+SKU-000762,Home_Kitchen_Product_0762,Home & Kitchen,1.513,63.5,6.7,33.9,10529.39,True
+SKU-000763,Beauty_Product_0763,Beauty,3.842,5.8,55.5,45.2,6319.48,True
+SKU-000764,Toys_Product_0764,Toys,8.669,13.5,43.7,23.0,14419.02,True
+SKU-000765,Toys_Product_0765,Toys,4.364,61.7,29.9,37.9,19126.22,True
+SKU-000766,Home_Kitchen_Product_0766,Home & Kitchen,1.844,7.5,31.1,14.5,9896.63,True
+SKU-000767,Sports_Product_0767,Sports,7.43,75.9,16.4,31.7,20291.29,True
+SKU-000768,Toys_Product_0768,Toys,1.716,56.7,24.2,45.6,19389.55,True
+SKU-000769,Electronics_Product_0769,Electronics,2.994,73.4,16.0,45.0,24761.87,True
+SKU-000770,Grocery_Product_0770,Grocery,6.793,12.6,36.2,31.1,10226.12,True
+SKU-000771,Toys_Product_0771,Toys,0.127,47.8,47.9,12.0,15698.68,True
+SKU-000772,Grocery_Product_0772,Grocery,14.011,33.1,12.8,11.1,20228.96,True
+SKU-000773,Toys_Product_0773,Toys,5.404,60.5,12.7,43.1,20189.34,True
+SKU-000774,Beauty_Product_0774,Beauty,11.061,71.4,25.0,7.1,6540.3,True
+SKU-000775,Books_Product_0775,Books,13.286,69.9,56.8,38.3,12403.11,True
+SKU-000776,Electronics_Product_0776,Electronics,5.401,47.4,26.4,8.8,1552.24,True
+SKU-000777,Fashion_Product_0777,Fashion,8.297,42.8,59.6,25.9,21244.2,True
+SKU-000778,Home_Kitchen_Product_0778,Home & Kitchen,2.391,36.9,49.2,15.3,6632.0,True
+SKU-000779,Electronics_Product_0779,Electronics,0.325,46.7,35.8,31.4,20956.03,True
+SKU-000780,Toys_Product_0780,Toys,12.64,5.4,49.9,10.8,22086.32,True
+SKU-000781,Beauty_Product_0781,Beauty,11.978,70.3,20.1,46.3,4035.66,True
+SKU-000782,Toys_Product_0782,Toys,13.792,56.9,54.6,15.2,21691.98,True
+SKU-000783,Books_Product_0783,Books,6.811,51.5,59.3,47.2,6627.16,True
+SKU-000784,Beauty_Product_0784,Beauty,5.73,62.7,44.9,38.1,23225.81,True
+SKU-000785,Toys_Product_0785,Toys,4.321,41.2,41.2,29.8,10738.35,True
+SKU-000786,Grocery_Product_0786,Grocery,4.357,62.6,16.6,21.3,10696.76,True
+SKU-000787,Beauty_Product_0787,Beauty,2.03,33.2,35.4,27.3,8520.18,True
+SKU-000788,Sports_Product_0788,Sports,0.394,75.2,19.7,8.4,23569.65,True
+SKU-000789,Grocery_Product_0789,Grocery,13.084,49.8,39.9,35.3,4783.54,True
+SKU-000790,Fashion_Product_0790,Fashion,9.14,65.1,51.5,21.8,18247.96,True
+SKU-000791,Sports_Product_0791,Sports,0.148,76.2,52.0,49.2,21607.19,True
+SKU-000792,Electronics_Product_0792,Electronics,0.962,34.5,58.0,49.4,13532.35,True
+SKU-000793,Home_Kitchen_Product_0793,Home & Kitchen,0.94,30.7,43.2,23.2,17699.23,True
+SKU-000794,Beauty_Product_0794,Beauty,1.585,44.1,14.7,6.7,15683.22,True
+SKU-000795,Sports_Product_0795,Sports,11.551,35.6,6.4,29.7,5870.32,True
+SKU-000796,Electronics_Product_0796,Electronics,12.877,64.8,40.1,24.3,12514.99,True
+SKU-000797,Home_Kitchen_Product_0797,Home & Kitchen,7.086,8.8,20.4,27.7,2816.1,True
+SKU-000798,Books_Product_0798,Books,3.51,45.2,40.0,34.7,20407.96,True
+SKU-000799,Books_Product_0799,Books,11.685,74.3,34.4,6.4,10617.06,True
+SKU-000800,Books_Product_0800,Books,2.205,52.0,30.1,24.2,8249.27,True
+SKU-000801,Grocery_Product_0801,Grocery,14.163,71.4,46.1,26.5,8610.11,True
+SKU-000802,Grocery_Product_0802,Grocery,10.22,9.5,15.9,17.8,9664.43,True
+SKU-000803,Beauty_Product_0803,Beauty,10.628,12.9,25.7,29.0,14782.51,True
+SKU-000804,Grocery_Product_0804,Grocery,12.868,35.9,17.9,30.0,4277.04,True
+SKU-000805,Beauty_Product_0805,Beauty,9.044,43.6,51.1,16.2,4541.54,True
+SKU-000806,Grocery_Product_0806,Grocery,4.841,75.9,40.3,38.5,947.83,True
+SKU-000807,Grocery_Product_0807,Grocery,9.478,73.1,51.6,14.9,1913.23,True
+SKU-000808,Home_Kitchen_Product_0808,Home & Kitchen,11.811,9.1,42.1,49.5,14744.39,True
+SKU-000809,Fashion_Product_0809,Fashion,4.997,68.7,28.8,37.2,14461.01,True
+SKU-000810,Home_Kitchen_Product_0810,Home & Kitchen,14.084,45.2,33.1,2.6,15676.52,True
+SKU-000811,Home_Kitchen_Product_0811,Home & Kitchen,11.444,72.1,25.3,11.2,16296.67,True
+SKU-000812,Fashion_Product_0812,Fashion,9.79,49.7,41.5,41.0,22510.94,True
+SKU-000813,Grocery_Product_0813,Grocery,3.709,32.0,51.5,26.2,18312.15,True
+SKU-000814,Fashion_Product_0814,Fashion,3.421,35.6,21.0,8.0,20969.25,True
+SKU-000815,Toys_Product_0815,Toys,5.295,23.1,17.1,2.9,9135.47,True
+SKU-000816,Beauty_Product_0816,Beauty,1.181,8.0,48.0,31.3,18820.5,True
+SKU-000817,Home_Kitchen_Product_0817,Home & Kitchen,10.181,35.4,47.5,12.7,9659.7,True
+SKU-000818,Sports_Product_0818,Sports,10.463,51.0,21.2,21.6,15911.73,True
+SKU-000819,Sports_Product_0819,Sports,2.156,69.0,11.2,50.0,4713.01,True
+SKU-000820,Beauty_Product_0820,Beauty,8.817,73.8,11.9,12.0,13328.41,True
+SKU-000821,Sports_Product_0821,Sports,5.286,64.0,18.1,33.3,16962.42,True
+SKU-000822,Beauty_Product_0822,Beauty,0.942,44.1,48.2,23.7,6416.95,True
+SKU-000823,Electronics_Product_0823,Electronics,7.388,66.6,21.2,3.9,936.97,True
+SKU-000824,Books_Product_0824,Books,4.783,34.5,7.5,25.3,332.04,True
+SKU-000825,Fashion_Product_0825,Fashion,7.218,50.9,59.7,42.9,15647.96,True
+SKU-000826,Beauty_Product_0826,Beauty,3.808,49.9,25.3,2.2,11677.48,True
+SKU-000827,Grocery_Product_0827,Grocery,1.739,54.5,6.4,35.0,18105.25,True
+SKU-000828,Fashion_Product_0828,Fashion,8.832,15.6,54.6,19.5,24842.33,True
+SKU-000829,Toys_Product_0829,Toys,2.578,77.0,16.6,37.6,13247.68,True
+SKU-000830,Books_Product_0830,Books,12.167,11.5,48.1,34.7,18135.69,True
+SKU-000831,Beauty_Product_0831,Beauty,8.389,35.2,55.3,5.9,16919.71,True
+SKU-000832,Grocery_Product_0832,Grocery,1.345,48.8,35.4,16.9,8541.41,True
+SKU-000833,Beauty_Product_0833,Beauty,8.563,31.4,52.1,5.2,21022.1,True
+SKU-000834,Fashion_Product_0834,Fashion,14.464,74.9,20.6,34.5,20177.58,True
+SKU-000835,Toys_Product_0835,Toys,0.563,69.4,31.0,10.6,20409.0,True
+SKU-000836,Beauty_Product_0836,Beauty,11.792,28.0,6.4,48.3,7107.53,True
+SKU-000837,Fashion_Product_0837,Fashion,1.479,59.9,23.1,26.5,15998.22,True
+SKU-000838,Beauty_Product_0838,Beauty,1.199,18.4,27.8,16.5,22476.78,True
+SKU-000839,Home_Kitchen_Product_0839,Home & Kitchen,1.994,48.3,53.3,48.0,8588.16,True
+SKU-000840,Toys_Product_0840,Toys,6.221,49.8,23.6,32.0,18951.28,True
+SKU-000841,Beauty_Product_0841,Beauty,2.255,37.8,34.6,49.2,17314.02,True
+SKU-000842,Books_Product_0842,Books,9.164,50.2,34.3,14.5,16355.74,True
+SKU-000843,Toys_Product_0843,Toys,10.051,74.5,21.1,34.1,4852.78,True
+SKU-000844,Electronics_Product_0844,Electronics,8.531,68.2,27.0,29.8,19280.24,True
+SKU-000845,Fashion_Product_0845,Fashion,1.022,21.0,32.4,37.2,9963.84,True
+SKU-000846,Home_Kitchen_Product_0846,Home & Kitchen,10.154,56.8,17.1,27.8,18175.23,True
+SKU-000847,Sports_Product_0847,Sports,6.504,35.8,56.3,23.1,19191.32,True
+SKU-000848,Grocery_Product_0848,Grocery,2.409,34.6,20.0,42.6,14484.95,True
+SKU-000849,Electronics_Product_0849,Electronics,9.124,12.8,58.5,46.4,4292.35,True
+SKU-000850,Sports_Product_0850,Sports,14.698,53.2,43.3,42.5,10484.25,True
+SKU-000851,Electronics_Product_0851,Electronics,8.392,53.5,9.7,32.2,21487.03,True
+SKU-000852,Electronics_Product_0852,Electronics,14.412,24.8,56.7,4.2,10663.55,True
+SKU-000853,Home_Kitchen_Product_0853,Home & Kitchen,4.622,17.1,17.1,18.4,19604.48,True
+SKU-000854,Home_Kitchen_Product_0854,Home & Kitchen,4.176,52.6,56.0,2.3,13559.27,True
+SKU-000855,Fashion_Product_0855,Fashion,4.013,31.0,44.9,10.7,12148.58,True
+SKU-000856,Electronics_Product_0856,Electronics,6.443,11.5,49.8,28.4,17969.46,True
+SKU-000857,Fashion_Product_0857,Fashion,2.03,50.5,26.8,8.1,20247.28,True
+SKU-000858,Electronics_Product_0858,Electronics,3.338,38.5,14.5,5.7,16485.1,True
+SKU-000859,Fashion_Product_0859,Fashion,4.518,30.3,5.6,32.3,1476.25,True
+SKU-000860,Grocery_Product_0860,Grocery,8.776,50.4,6.0,7.1,17579.63,True
+SKU-000861,Toys_Product_0861,Toys,2.912,23.0,23.1,4.2,10693.57,True
+SKU-000862,Toys_Product_0862,Toys,13.535,35.3,29.8,46.2,17566.81,True
+SKU-000863,Electronics_Product_0863,Electronics,0.854,27.5,29.8,34.7,12343.48,True
+SKU-000864,Books_Product_0864,Books,11.706,31.8,58.4,40.9,20823.16,True
+SKU-000865,Home_Kitchen_Product_0865,Home & Kitchen,8.417,66.9,20.7,4.3,2376.89,True
+SKU-000866,Fashion_Product_0866,Fashion,12.255,36.1,46.0,11.2,7314.94,True
+SKU-000867,Toys_Product_0867,Toys,8.878,47.5,20.2,24.8,19675.05,True
+SKU-000868,Beauty_Product_0868,Beauty,4.107,78.9,13.3,34.4,5138.95,True
+SKU-000869,Home_Kitchen_Product_0869,Home & Kitchen,9.949,32.4,53.8,16.2,8092.8,True
+SKU-000870,Electronics_Product_0870,Electronics,10.683,74.2,43.4,36.1,4950.17,True
+SKU-000871,Electronics_Product_0871,Electronics,6.395,65.0,9.3,10.5,14735.55,True
+SKU-000872,Fashion_Product_0872,Fashion,4.484,41.4,44.4,26.2,1997.19,True
+SKU-000873,Electronics_Product_0873,Electronics,8.379,72.1,53.2,46.5,2425.48,True
+SKU-000874,Fashion_Product_0874,Fashion,11.916,74.3,45.1,10.7,18513.07,True
+SKU-000875,Beauty_Product_0875,Beauty,4.983,22.9,49.6,45.0,7897.73,True
+SKU-000876,Books_Product_0876,Books,12.657,12.1,41.6,35.1,16691.72,True
+SKU-000877,Beauty_Product_0877,Beauty,14.437,44.2,6.0,49.4,11882.88,True
+SKU-000878,Beauty_Product_0878,Beauty,7.222,9.2,34.7,22.6,701.84,True
+SKU-000879,Electronics_Product_0879,Electronics,0.853,78.9,40.9,8.5,7832.31,True
+SKU-000880,Toys_Product_0880,Toys,13.538,28.9,50.3,22.1,19048.58,True
+SKU-000881,Electronics_Product_0881,Electronics,10.4,51.1,39.3,2.9,8558.34,True
+SKU-000882,Grocery_Product_0882,Grocery,2.008,16.8,23.7,46.4,19833.85,True
+SKU-000883,Toys_Product_0883,Toys,6.739,74.4,48.9,43.4,8930.49,True
+SKU-000884,Beauty_Product_0884,Beauty,0.333,12.9,29.0,3.1,21636.21,True
+SKU-000885,Fashion_Product_0885,Fashion,13.858,51.7,52.0,8.9,21753.37,True
+SKU-000886,Fashion_Product_0886,Fashion,0.632,75.3,46.6,34.8,8724.06,True
+SKU-000887,Electronics_Product_0887,Electronics,12.702,66.7,11.9,45.6,2022.07,True
+SKU-000888,Toys_Product_0888,Toys,3.439,63.7,49.0,48.6,2990.84,True
+SKU-000889,Fashion_Product_0889,Fashion,9.74,6.1,48.7,35.8,4638.61,True
+SKU-000890,Sports_Product_0890,Sports,11.71,78.3,37.1,43.9,1790.85,True
+SKU-000891,Sports_Product_0891,Sports,6.224,71.3,47.1,15.5,23334.14,True
+SKU-000892,Beauty_Product_0892,Beauty,9.184,57.0,31.7,49.3,5220.19,True
+SKU-000893,Beauty_Product_0893,Beauty,1.504,63.4,11.3,7.8,15178.12,True
+SKU-000894,Sports_Product_0894,Sports,0.776,18.4,9.7,45.5,24164.79,True
+SKU-000895,Fashion_Product_0895,Fashion,3.287,18.8,37.0,47.7,18281.94,True
+SKU-000896,Beauty_Product_0896,Beauty,9.249,12.2,21.1,46.0,10118.73,True
+SKU-000897,Toys_Product_0897,Toys,11.923,62.7,31.3,17.5,10015.51,True
+SKU-000898,Books_Product_0898,Books,4.678,19.5,16.5,18.8,16504.68,True
+SKU-000899,Toys_Product_0899,Toys,5.629,19.4,30.2,44.1,8601.37,True
+SKU-000900,Fashion_Product_0900,Fashion,3.036,42.2,25.9,35.9,6883.6,True
+SKU-000901,Electronics_Product_0901,Electronics,6.774,69.1,7.2,22.1,6517.95,True
+SKU-000902,Electronics_Product_0902,Electronics,13.792,30.3,46.5,14.7,5497.64,True
+SKU-000903,Sports_Product_0903,Sports,11.534,78.7,50.1,6.2,12486.94,True
+SKU-000904,Beauty_Product_0904,Beauty,0.526,42.1,30.6,22.5,16613.48,True
+SKU-000905,Books_Product_0905,Books,10.463,25.0,48.8,26.7,4816.18,True
+SKU-000906,Electronics_Product_0906,Electronics,5.054,77.9,16.9,30.4,22997.21,True
+SKU-000907,Home_Kitchen_Product_0907,Home & Kitchen,10.122,54.1,23.2,45.1,15364.58,True
+SKU-000908,Books_Product_0908,Books,8.128,62.1,55.1,9.1,16741.5,True
+SKU-000909,Beauty_Product_0909,Beauty,3.133,28.1,39.4,15.5,7253.16,True
+SKU-000910,Toys_Product_0910,Toys,2.36,50.6,18.0,32.0,4524.2,True
+SKU-000911,Beauty_Product_0911,Beauty,5.575,6.1,12.4,9.5,17797.3,True
+SKU-000912,Fashion_Product_0912,Fashion,2.018,51.2,56.4,28.3,15469.25,True
+SKU-000913,Electronics_Product_0913,Electronics,11.832,49.5,32.3,10.8,6949.25,True
+SKU-000914,Beauty_Product_0914,Beauty,5.328,6.2,25.7,20.8,22096.7,True
+SKU-000915,Books_Product_0915,Books,12.635,43.7,41.9,41.7,13796.5,True
+SKU-000916,Beauty_Product_0916,Beauty,9.69,58.4,60.0,17.5,14029.1,True
+SKU-000917,Fashion_Product_0917,Fashion,3.323,42.7,42.9,3.9,6377.16,True
+SKU-000918,Home_Kitchen_Product_0918,Home & Kitchen,6.088,42.6,42.1,26.5,23917.53,True
+SKU-000919,Toys_Product_0919,Toys,6.752,77.4,6.5,34.5,20233.99,True
+SKU-000920,Fashion_Product_0920,Fashion,2.434,44.7,22.7,49.1,10464.15,True
+SKU-000921,Books_Product_0921,Books,8.956,10.9,31.6,34.1,143.92,True
+SKU-000922,Books_Product_0922,Books,3.606,13.2,29.6,37.2,15833.03,True
+SKU-000923,Beauty_Product_0923,Beauty,1.242,53.2,43.8,47.5,2797.57,True
+SKU-000924,Fashion_Product_0924,Fashion,14.536,35.4,34.7,35.6,1831.2,True
+SKU-000925,Sports_Product_0925,Sports,9.28,20.7,35.8,44.4,9294.71,True
+SKU-000926,Toys_Product_0926,Toys,6.372,13.2,10.3,35.3,11653.5,True
+SKU-000927,Grocery_Product_0927,Grocery,1.264,50.4,48.4,12.9,22282.46,True
+SKU-000928,Electronics_Product_0928,Electronics,3.046,42.0,42.0,40.2,5793.85,True
+SKU-000929,Beauty_Product_0929,Beauty,0.638,56.4,54.8,11.9,17430.04,True
+SKU-000930,Sports_Product_0930,Sports,0.061,44.8,52.6,28.8,15699.15,True
+SKU-000931,Fashion_Product_0931,Fashion,4.572,8.9,59.7,8.4,292.78,True
+SKU-000932,Books_Product_0932,Books,5.469,35.0,25.3,33.7,13890.35,True
+SKU-000933,Books_Product_0933,Books,2.642,54.5,40.3,32.1,7362.89,True
+SKU-000934,Beauty_Product_0934,Beauty,13.37,39.7,30.2,3.7,19539.39,True
+SKU-000935,Sports_Product_0935,Sports,4.452,8.5,7.6,42.7,2986.48,True
+SKU-000936,Beauty_Product_0936,Beauty,5.319,75.4,27.4,39.7,15633.14,True
+SKU-000937,Electronics_Product_0937,Electronics,6.777,42.4,52.6,8.1,17708.52,True
+SKU-000938,Books_Product_0938,Books,2.728,24.8,38.6,4.0,6619.23,True
+SKU-000939,Electronics_Product_0939,Electronics,8.7,78.2,36.6,49.5,20369.3,True
+SKU-000940,Sports_Product_0940,Sports,7.228,39.4,50.4,4.3,5891.26,True
+SKU-000941,Grocery_Product_0941,Grocery,5.976,61.1,49.8,29.1,5880.23,True
+SKU-000942,Toys_Product_0942,Toys,14.575,10.8,6.4,47.0,20065.51,True
+SKU-000943,Grocery_Product_0943,Grocery,0.712,19.3,16.6,17.2,15659.64,True
+SKU-000944,Fashion_Product_0944,Fashion,0.477,46.4,26.0,9.1,10138.21,True
+SKU-000945,Books_Product_0945,Books,3.528,36.2,46.9,10.8,21160.82,True
+SKU-000946,Grocery_Product_0946,Grocery,3.299,73.0,12.5,36.1,9262.82,True
+SKU-000947,Toys_Product_0947,Toys,0.934,30.4,41.4,30.7,6005.96,True
+SKU-000948,Sports_Product_0948,Sports,6.207,26.0,30.4,31.1,5793.92,True
+SKU-000949,Toys_Product_0949,Toys,3.997,29.3,21.1,28.4,2112.35,True
+SKU-000950,Toys_Product_0950,Toys,11.721,22.5,42.6,17.0,365.78,True
+SKU-000951,Beauty_Product_0951,Beauty,7.345,30.4,15.2,16.3,4104.62,True
+SKU-000952,Fashion_Product_0952,Fashion,4.397,21.6,11.7,2.3,15390.33,True
+SKU-000953,Grocery_Product_0953,Grocery,2.056,19.5,32.2,27.2,8869.19,True
+SKU-000954,Fashion_Product_0954,Fashion,13.999,16.9,46.2,36.1,24890.37,True
+SKU-000955,Electronics_Product_0955,Electronics,5.37,66.0,42.1,17.6,12998.81,True
+SKU-000956,Books_Product_0956,Books,12.162,64.3,21.5,34.1,23306.62,True
+SKU-000957,Toys_Product_0957,Toys,4.22,71.3,26.3,20.2,19733.59,True
+SKU-000958,Sports_Product_0958,Sports,3.84,51.6,48.9,48.9,9836.49,True
+SKU-000959,Books_Product_0959,Books,0.061,7.9,31.7,22.7,16144.88,True
+SKU-000960,Home_Kitchen_Product_0960,Home & Kitchen,2.576,12.0,41.4,32.2,3452.4,True
+SKU-000961,Toys_Product_0961,Toys,3.142,44.6,12.5,45.8,16476.34,True
+SKU-000962,Books_Product_0962,Books,1.044,67.7,36.9,16.9,4437.65,True
+SKU-000963,Home_Kitchen_Product_0963,Home & Kitchen,6.187,50.5,34.1,5.1,15279.7,True
+SKU-000964,Toys_Product_0964,Toys,12.076,72.7,21.8,43.2,10981.7,True
+SKU-000965,Home_Kitchen_Product_0965,Home & Kitchen,5.326,10.4,52.3,49.7,24310.47,True
+SKU-000966,Grocery_Product_0966,Grocery,2.858,28.1,17.6,6.1,16408.11,True
+SKU-000967,Toys_Product_0967,Toys,13.289,14.0,37.6,49.9,11794.89,True
+SKU-000968,Grocery_Product_0968,Grocery,7.179,46.0,18.9,39.0,19329.11,True
+SKU-000969,Beauty_Product_0969,Beauty,3.731,16.5,54.8,45.9,2569.22,True
+SKU-000970,Fashion_Product_0970,Fashion,5.032,43.8,14.3,23.7,20608.51,True
+SKU-000971,Books_Product_0971,Books,11.29,57.6,7.9,21.0,13568.49,True
+SKU-000972,Sports_Product_0972,Sports,8.643,26.4,19.1,36.6,9732.03,True
+SKU-000973,Electronics_Product_0973,Electronics,6.924,77.7,53.0,2.4,15149.15,True
+SKU-000974,Sports_Product_0974,Sports,12.695,22.0,25.2,13.6,7500.58,True
+SKU-000975,Books_Product_0975,Books,10.313,77.4,16.2,5.4,21646.1,True
+SKU-000976,Books_Product_0976,Books,10.556,30.7,28.2,15.6,5519.11,True
+SKU-000977,Grocery_Product_0977,Grocery,0.085,79.2,58.5,35.3,12007.47,True
+SKU-000978,Books_Product_0978,Books,6.741,12.1,31.9,21.1,19658.65,True
+SKU-000979,Grocery_Product_0979,Grocery,11.442,77.3,49.2,48.3,17938.22,True
+SKU-000980,Fashion_Product_0980,Fashion,10.023,45.4,10.5,21.5,15867.26,True
+SKU-000981,Books_Product_0981,Books,7.385,32.1,45.2,30.3,10530.75,True
+SKU-000982,Books_Product_0982,Books,9.425,64.6,53.3,48.8,1654.95,True
+SKU-000983,Fashion_Product_0983,Fashion,11.747,77.6,45.3,6.3,9865.5,True
+SKU-000984,Sports_Product_0984,Sports,0.445,41.0,17.6,11.9,1386.41,True
+SKU-000985,Beauty_Product_0985,Beauty,3.349,22.7,41.7,23.7,15293.57,True
+SKU-000986,Sports_Product_0986,Sports,6.079,31.9,59.6,24.0,1250.64,True
+SKU-000987,Fashion_Product_0987,Fashion,11.094,21.1,26.6,23.8,4495.1,True
+SKU-000988,Fashion_Product_0988,Fashion,4.395,48.4,6.3,39.3,9392.48,True
+SKU-000989,Beauty_Product_0989,Beauty,2.33,36.6,42.2,30.7,23367.55,True
+SKU-000990,Sports_Product_0990,Sports,2.798,34.3,52.9,2.3,11163.67,True
+SKU-000991,Beauty_Product_0991,Beauty,8.918,44.5,52.0,16.8,18891.8,True
+SKU-000992,Toys_Product_0992,Toys,14.965,9.7,48.3,34.4,3739.49,True
+SKU-000993,Toys_Product_0993,Toys,13.909,51.8,29.9,27.1,8148.66,True
+SKU-000994,Electronics_Product_0994,Electronics,11.81,37.9,20.0,40.9,21759.54,True
+SKU-000995,Beauty_Product_0995,Beauty,8.834,16.5,56.0,12.1,8760.49,True
+SKU-000996,Toys_Product_0996,Toys,1.163,50.7,30.2,47.3,17999.29,True
+SKU-000997,Toys_Product_0997,Toys,8.412,52.2,46.6,35.6,17590.91,True
+SKU-000998,Grocery_Product_0998,Grocery,7.001,58.5,56.3,6.8,3867.47,True
+SKU-000999,Beauty_Product_0999,Beauty,14.564,54.9,35.2,19.8,21573.06,True
+SKU-001000,Grocery_Product_1000,Grocery,13.848,52.5,43.1,3.4,6109.31,True

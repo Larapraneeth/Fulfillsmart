@@ -1,0 +1,23 @@
+{
+  "orders_processed": 50000,
+  "allocated_order_node_groups": 50016,
+  "carrier_selected_groups": 49436,
+  "promise_records": 49436,
+  "carrier_promise_exceptions": 580,
+  "selected_service_counts": {
+    "STANDARD": 37501,
+    "EXPRESS": 10005,
+    "SAME_DAY": 1930
+  },
+  "checks": {
+    "carrier_selection_foreign_keys_valid": true,
+    "carrier_zone_coverage_valid": true,
+    "requested_service_exists_for_carrier": true,
+    "delivery_promise_foreign_keys_valid": true,
+    "promised_date_not_before_dispatch": true,
+    "every_selected_carrier_has_a_promise": true,
+    "exceptions_are_separate_from_successful_selections": true
+  },
+  "all_checks_passed": true,
+  "rules": "Exact requested service required; no silent service downgrade. Carrier must cover the destination zone and service, have an operating pickup day, and meet the applicable cutoff. Transit days count destination working days; Sundays and synthetic holidays are excluded."
+}

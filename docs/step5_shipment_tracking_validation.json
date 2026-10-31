@@ -1,0 +1,26 @@
+{
+  "shipments": 49436,
+  "tracking_events": 100000,
+  "delivery_outcomes": 50000,
+  "shipment_exceptions": 580,
+  "delayed_shipments": 1128,
+  "delivery_outcome_counts": {
+    "DELIVERED_ON_TIME": 48293,
+    "DELIVERED_LATE": 1128,
+    "CARRIER_UNAVAILABLE": 579
+  },
+  "checks": {
+    "shipment_ids_unique": true,
+    "shipment_order_node_and_promise_references_valid": true,
+    "tracking_event_ids_unique": true,
+    "tracking_event_shipment_references_valid": true,
+    "tracking_events_exactly_100000": true,
+    "event_sequences_contiguous": true,
+    "event_timestamps_chronological": true,
+    "each_shipment_ends_with_delivered_event": true,
+    "one_delivery_outcome_per_order": true,
+    "shipment_exceptions_separate": true
+  },
+  "all_checks_passed": true,
+  "simulation_note": "Synthetic shipment lifecycle. Exactly 100,000 tracking events; every generated shipment has pickup and delivery, delayed shipments include a delay event, and a subset includes an in-transit milestone. No real carrier API data is represented."
+}

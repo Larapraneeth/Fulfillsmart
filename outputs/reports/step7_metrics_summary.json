@@ -1,0 +1,36 @@
+{
+  "project": "FulfillSmart",
+  "step": 7,
+  "generated_at_utc": "2026-10-30T05:04:41.099047+00:00",
+  "source_files": [
+    "orders.csv",
+    "order_allocation_summary.csv",
+    "allocation_decisions.csv",
+    "capacity_usage.csv",
+    "carrier_selection.csv",
+    "shipments.csv",
+    "delivery_outcomes.csv",
+    "ground_truth.csv"
+  ],
+  "headline": {
+    "total_orders": 50000,
+    "allocated_orders": 50000,
+    "allocation_success_rate_pct": 100.0,
+    "shipments": 49436,
+    "order_on_time_rate_all_orders_pct": 97.74,
+    "order_on_time_rate_completed_pct": 98.89,
+    "carrier_unavailable_orders": 579,
+    "split_node_orders": 11,
+    "warehouse_order_capacity_utilization_pct": 2.07,
+    "warehouse_unit_capacity_utilization_pct": 1.43,
+    "ground_truth_anomaly_cases": 976
+  },
+  "interpretation_notes": [
+    "All values are calculated from the synthetic project datasets.",
+    "Order-level on-time rate over all orders includes carrier-unavailable orders in the denominator; completed-only rate excludes them.",
+    "Carrier performance is shipment-level, not order-level.",
+    "Warehouse utilization is weighted across node-days present in capacity_usage.csv.",
+    "Ground-truth anomaly labels are seeded test cases, not predictions from an anomaly detector.",
+    "Precision, recall, F1 and detection accuracy are intentionally not reported because no detector predictions have been evaluated against the labels."
+  ]
+}

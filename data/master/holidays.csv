@@ -1,0 +1,10 @@
+holiday_id,holiday_date,holiday_name,state_scope,is_working_day,calendar_type
+HOL-001,2026-01-26,Republic Day,ALL,False,SYNTHETIC_TEST_CALENDAR
+HOL-002,2026-03-04,Synthetic Regional Holiday,Telangana,False,SYNTHETIC_TEST_CALENDAR
+HOL-003,2026-03-21,Synthetic Regional Holiday,Maharashtra,False,SYNTHETIC_TEST_CALENDAR
+HOL-004,2026-05-01,Labour Day,ALL,False,SYNTHETIC_TEST_CALENDAR
+HOL-005,2026-08-15,Independence Day,ALL,False,SYNTHETIC_TEST_CALENDAR
+HOL-006,2026-10-02,Gandhi Jayanti,ALL,False,SYNTHETIC_TEST_CALENDAR
+HOL-007,2026-10-20,Synthetic Festival Holiday,ALL,False,SYNTHETIC_TEST_CALENDAR
+HOL-008,2026-10-21,Synthetic Festival Holiday,ALL,False,SYNTHETIC_TEST_CALENDAR
+HOL-009,2026-12-25,Christmas,ALL,False,SYNTHETIC_TEST_CALENDAR

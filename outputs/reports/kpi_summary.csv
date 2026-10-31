@@ -1,0 +1,20 @@
+metric,value,unit,definition
+total_orders,50000.0,orders,All synthetic orders in orders.csv
+allocation_success_rate,100.0,percent,Allocated orders / total orders
+allocated_orders,50000.0,orders,Orders with ALLOCATED status
+unallocated_orders,0.0,orders,Total orders minus allocated orders
+carrier_promise_coverage_rate,98.872,percent,Orders with a carrier selection / all orders; split orders can have multiple selections
+shipment_count,49436.0,shipments,Rows in shipments.csv
+shipment_on_time_rate,97.71826199530706,percent,Shipments not flagged delayed / all shipments
+shipment_delay_rate,2.2817380046929365,percent,Shipments flagged delayed / all shipments
+order_delivery_completion_rate,98.842,percent,Orders with completed delivery / all orders
+order_on_time_rate_all_orders,97.744,percent,On-time delivered orders / all orders; carrier-unavailable orders remain in denominator
+order_on_time_rate_completed,98.88913619716315,percent,On-time delivered orders / completed orders
+late_orders,1128.0,orders,Order outcome DELIVERED_LATE
+carrier_unavailable_orders,579.0,orders,Order outcome CARRIER_UNAVAILABLE
+split_shipment_order_rate,0.022000000000000002,percent,Allocated orders assigned to more than one node / allocated orders
+single_node_orders,49989.0,orders,Allocated orders assigned to exactly one node
+split_node_orders,11.0,orders,Allocated orders assigned to multiple nodes
+warehouse_order_capacity_utilization,2.0705483376331766,percent,Sum allocated order capacity / sum capacity across used node-days
+warehouse_unit_capacity_utilization,1.4320089577735005,percent,Sum allocated unit capacity / sum capacity across used node-days
+labelled_anomaly_cases,976.0,cases,Ground-truth anomaly scenarios; separate from clean operational records

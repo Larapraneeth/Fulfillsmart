@@ -1,0 +1,21 @@
+{
+  "seed": 20261022,
+  "orders_processed": 50000,
+  "allocated_orders": 50000,
+  "unallocated_orders": 0,
+  "single_node_orders": 49989,
+  "split_node_orders": 11,
+  "allocation_rows": 93558,
+  "exceptions": 0,
+  "sunday_orders_shifted_to_monday": 7011,
+  "checks": {
+    "one_summary_row_per_order": true,
+    "allocation_foreign_keys_valid": true,
+    "all_allocated_order_lines_fully_allocated": true,
+    "inventory_not_overdrawn": true,
+    "daily_order_and_unit_capacity_not_exceeded": true,
+    "every_unallocated_order_has_exception": true
+  },
+  "all_checks_passed": true,
+  "method": "Chronological nearest-feasible-node allocation; orders placed Sunday are assigned to Monday processing because warehouse capacity is zero Sunday; single-node first, then transactional split."
+}

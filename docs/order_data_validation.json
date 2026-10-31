@@ -1,0 +1,28 @@
+{
+  "seed": 20261022,
+  "orders": 50000,
+  "order_lines": 93552,
+  "checks": {
+    "orders_exactly_50000": true,
+    "order_ids_unique": true,
+    "order_line_ids_unique": true,
+    "every_order_has_at_least_one_line": true,
+    "order_line_order_fk_valid": true,
+    "order_line_sku_fk_valid": true,
+    "destination_zone_fk_valid": true,
+    "quantities_positive": true,
+    "line_total_arithmetic_valid": true,
+    "order_total_reconciles": true
+  },
+  "all_checks_passed": true,
+  "order_line_count_distribution": {
+    "1": 22463,
+    "2": 15078,
+    "3": 8903,
+    "4": 3556
+  },
+  "date_range": [
+    "2026-01-01T00:19:49+05:30",
+    "2026-10-30T23:53:57+05:30"
+  ]
+}

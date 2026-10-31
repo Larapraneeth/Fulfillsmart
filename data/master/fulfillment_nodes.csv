@@ -1,0 +1,21 @@
+node_id,node_name,city,state,node_pincode,node_type,latitude,longitude,is_active,timezone
+FUL-2026-000001,Hyderabad Fulfillment Centre,Hyderabad,Telangana,500136,FULFILLMENT_CENTER,17.385,78.4867,True,Asia/Kolkata
+FUL-2026-000002,Bengaluru Fulfillment Centre,Bengaluru,Karnataka,560142,FULFILLMENT_CENTER,12.9716,77.5946,True,Asia/Kolkata
+FUL-2026-000003,Mumbai Fulfillment Centre,Mumbai,Maharashtra,400310,DARK_STORE,19.076,72.8777,True,Asia/Kolkata
+FUL-2026-000004,Delhi Fulfillment Centre,Delhi,Delhi,110276,DISTRIBUTION_CENTER,28.6139,77.209,True,Asia/Kolkata
+FUL-2026-000005,Chennai Fulfillment Centre,Chennai,Tamil Nadu,600600,FULFILLMENT_CENTER,13.0827,80.2707,True,Asia/Kolkata
+FUL-2026-000006,Pune Fulfillment Centre,Pune,Maharashtra,411783,FULFILLMENT_CENTER,18.5204,73.8567,True,Asia/Kolkata
+FUL-2026-000007,Kolkata Fulfillment Centre,Kolkata,West Bengal,700699,DARK_STORE,22.5726,88.3639,True,Asia/Kolkata
+FUL-2026-000008,Ahmedabad Fulfillment Centre,Ahmedabad,Gujarat,380626,DISTRIBUTION_CENTER,23.0225,72.5714,True,Asia/Kolkata
+FUL-2026-000009,Jaipur Fulfillment Centre,Jaipur,Rajasthan,302979,FULFILLMENT_CENTER,26.9124,75.7873,True,Asia/Kolkata
+FUL-2026-000010,Lucknow Fulfillment Centre,Lucknow,Uttar Pradesh,226009,FULFILLMENT_CENTER,26.8467,80.9462,True,Asia/Kolkata
+FUL-2026-000011,Kochi Fulfillment Centre,Kochi,Kerala,682387,DARK_STORE,9.9312,76.2673,True,Asia/Kolkata
+FUL-2026-000012,Indore Fulfillment Centre,Indore,Madhya Pradesh,452680,DISTRIBUTION_CENTER,22.7196,75.8577,True,Asia/Kolkata
+FUL-2026-000013,Surat Fulfillment Centre,Surat,Gujarat,395377,FULFILLMENT_CENTER,21.1702,72.8311,True,Asia/Kolkata
+FUL-2026-000014,Nagpur Fulfillment Centre,Nagpur,Maharashtra,440025,FULFILLMENT_CENTER,21.1458,79.0882,True,Asia/Kolkata
+FUL-2026-000015,Coimbatore Fulfillment Centre,Coimbatore,Tamil Nadu,641565,DARK_STORE,11.0168,76.9558,True,Asia/Kolkata
+FUL-2026-000016,Bhopal Fulfillment Centre,Bhopal,Madhya Pradesh,462387,DISTRIBUTION_CENTER,23.2599,77.4126,True,Asia/Kolkata
+FUL-2026-000017,Visakhapatnam Fulfillment Centre,Visakhapatnam,Andhra Pradesh,530247,FULFILLMENT_CENTER,17.6868,83.2185,True,Asia/Kolkata
+FUL-2026-000018,Patna Fulfillment Centre,Patna,Bihar,800480,FULFILLMENT_CENTER,25.5941,85.1376,True,Asia/Kolkata
+FUL-2026-000019,Gurugram Fulfillment Centre,Gurugram,Haryana,122218,DARK_STORE,28.4595,77.0266,True,Asia/Kolkata
+FUL-2026-000020,Noida Fulfillment Centre,Noida,Uttar Pradesh,201495,DISTRIBUTION_CENTER,28.5355,77.391,True,Asia/Kolkata

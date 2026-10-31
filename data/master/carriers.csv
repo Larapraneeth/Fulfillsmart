@@ -1,0 +1,11 @@
+carrier_id,carrier_name,carrier_type,supports_reverse_logistics,is_active
+CAR-001,BlueDart,THIRD_PARTY,True,True
+CAR-002,Delhivery,THIRD_PARTY,False,True
+CAR-003,DTDC,THIRD_PARTY,True,True
+CAR-004,Ecom Express,THIRD_PARTY,False,True
+CAR-005,Xpressbees,THIRD_PARTY,True,True
+CAR-006,India Post,THIRD_PARTY,False,True
+CAR-007,Shadowfax,THIRD_PARTY,True,True
+CAR-008,Ekart,THIRD_PARTY,False,True
+CAR-009,Amazon Shipping,THIRD_PARTY,True,True
+CAR-010,Professional Couriers,THIRD_PARTY,False,True
