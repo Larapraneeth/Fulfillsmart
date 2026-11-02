@@ -10,6 +10,13 @@ from typing import Dict, Any, List, Optional
 ROOT_DIR = Path(__file__).resolve().parents[1]
 CONFIG_FILE = ROOT_DIR / "config" / "settings.json"
 
+# Load local .env file if present
+try:
+    from dotenv import load_dotenv
+    load_dotenv(ROOT_DIR / ".env")
+except ImportError:
+    pass
+
 
 class Settings:
     def __init__(self, config_dict: Dict[str, Any]):
@@ -59,8 +66,13 @@ class Settings:
         
         self.api_key: Optional[str] = os.getenv("FULFILLSMART_API_KEY")
         # Fail safely if production environment and key missing
-        if self.environment in ["production", "prod"] and not self.api_key:
-            raise RuntimeError("FATAL: FULFILLSMART_API_KEY environment variable is required in production mode.")
+        if self.environment in ["production", "prod"]:
+            if not self.api_key:
+                raise RuntimeError("FATAL: FULFILLSMART_API_KEY environment variable is required in production mode.")
+        else:
+            # In local development / testing, use the standard development key if not explicitly set
+            if not self.api_key:
+                self.api_key = "test-secret-key-2026"
             
         cors_env = os.getenv("CORS_ALLOWED_ORIGINS")
         if cors_env:
